@@ -1,4 +1,4 @@
-# Character — Genghis Egris
+# Character — Egris
 
 ## Role
 Protagonist. The Emperor Who Would Not Kneel.

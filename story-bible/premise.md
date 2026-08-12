@@ -2,7 +2,7 @@
 
 ## The Setup
 
-After his death, Genghis Egris awakens in a realm between life and the afterlife. God and Satan are locked in an eternal struggle over the fate of humanity. Both believe Egris's ambition, military genius, and ability to unite enemies make him the perfect champion.
+After his death, Egris awakens in a realm between life and the afterlife. God and Satan are locked in an eternal struggle over the fate of humanity. Both believe Egris's ambition, military genius, and ability to unite enemies make him the perfect champion.
 
 **God offers him:** divine authority and a place among the heavenly hosts.  
 **Satan offers him:** an army of demons and the power to conquer every world beyond death.

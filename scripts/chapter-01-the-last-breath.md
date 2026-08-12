@@ -138,7 +138,7 @@ Egris. Still. Between both figures. Neither looking up at them nor looking away.
 **Panel 1 — Wide, God speaking**
 
 **GOD:**
-> "Genghis Egris. You have arrived."
+> "Egris. You have arrived."
 
 **Panel 2 — Medium, Satan speaking (overlapping God's energy)**
 
@@ -178,7 +178,7 @@ Still nothing.
 **Panel 1 — Wide, God and Satan on opposite sides of Egris**
 
 **GOD:**
-> "Choose, Genghis Egris. Every soul must pass through one of these gates."
+> "Choose, Egris. Every soul must pass through one of these gates."
 
 **SATAN:**
 > "Choose. Or we choose for you."

@@ -17,7 +17,7 @@ Egris arrives in the afterlife, rejects both God and Satan, claims the Wastes as
 
 **Scene:** The border plain. Black stone. Two enormous gates.
 
-Genghis Egris dies and expects either victory or nothingness. Instead, he wakes in an endless black plain where thousands of dead soldiers are kneeling before two enormous gates.
+Egris dies and expects either victory or nothingness. Instead, he wakes in an endless black plain where thousands of dead soldiers are kneeling before two enormous gates.
 
 One gate opens to Heaven. The other opens to Hell.
 

@@ -8,7 +8,7 @@ Dark. Heavy. Epic in scale but intimate in character moments. Think less "shonen
 
 ## Character Design Principles
 
-### Genghis Egris
+### Egris
 - Mongol features. Not westernized.
 - Practical, worn clothing and armor. This is a man who spent 60 years in the field. Nothing ornamental.
 - No crown until the series earns it — and when it appears, it should be meaningful.

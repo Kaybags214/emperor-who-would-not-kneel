@@ -1,6 +1,6 @@
 # Chapter 1 — The Last Breath
 
-The last thing Genghis Egris heard was wind.
+The last thing Egris heard was wind.
 
 It moved across the plain with the long, unbroken cry of winter grass. It carried no banners. No horses answered it. No man shouted his name.
 

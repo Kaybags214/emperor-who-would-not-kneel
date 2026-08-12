@@ -2,7 +2,7 @@
 
 > *"He spent his life conquering nations — he would not begin kneeling now."*
 
-A manga series about Genghis Egris awakening in the afterlife, refusing to serve God or Satan, and building his own empire from the dead — while the Reaper watches from the edge of existence.
+A manga series about Egris awakening in the afterlife, refusing to serve God or Satan, and building his own empire from the dead — while the Reaper watches from the edge of existence.
 
 ---
 
