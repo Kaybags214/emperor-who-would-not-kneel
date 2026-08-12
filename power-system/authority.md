@@ -27,22 +27,22 @@ A being becomes stronger when others recognize their rule. This means power is i
 ---
 
 ### Legacy
-**Who uses it:** Khan  
+**Who uses it:** Egris  
 **Source:** The memory and continued choice of people who follow after death  
 **Nature:** The only form of power that can grow after the source is gone. Legacy is what people do in someone's name when that person is no longer watching.  
-**Weakness:** Legacy cannot be forced. If Khan's followers obey him out of fear, his power weakens — he is accidentally converting legacy into fear. If they worship him, he risks becoming another god and converting legacy into faith.
+**Weakness:** Legacy cannot be forced. If Egris's followers obey him out of fear, his power weakens — he is accidentally converting legacy into fear. If they worship him, he risks becoming another god and converting legacy into faith.
 
-To remain himself, Khan must convince people to follow him freely — because they believe in what he is building, not because they are afraid of what happens if they don't.
+To remain himself, Egris must convince people to follow him freely — because they believe in what he is building, not because they are afraid of what happens if they don't.
 
 ---
 
-## The Tension in Khan's Power
+## The Tension in Egris's Power
 
 This creates an impossible-seeming problem:
 
-- If people follow Khan because he terrifies them → he becomes Satan
-- If people worship Khan as divine → he becomes God
-- If people follow Khan freely, because they choose to → he remains himself
+- If people follow Egris because he terrifies them → he becomes Satan
+- If people worship Egris as divine → he becomes God
+- If people follow Egris freely, because they choose to → he remains himself
 
 But "freely chosen" loyalty is the hardest thing to build and the easiest thing to destroy. One bad decision, one broken promise, one moment of cruelty and the whole structure shifts.
 
@@ -50,13 +50,13 @@ But "freely chosen" loyalty is the hardest thing to build and the easiest thing 
 
 ## The Reaper's Mark
 
-The Reaper's mark on Khan's hand does not fit any of the three categories. It draws from the Reaper's authority over death itself — which predates all three forms.
+The Reaper's mark on Egris's hand does not fit any of the three categories. It draws from the Reaper's authority over death itself — which predates all three forms.
 
-**Effect:** Each use of the mark grants Khan a surge of power outside the authority system — borrowed force that does not require anyone's recognition.
+**Effect:** Each use of the mark grants Egris a surge of power outside the authority system — borrowed force that does not require anyone's recognition.
 
-**Cost:** Each use causes one of Khan's followers to lose a memory of their former life. Over time, they become more fully citizens of his new world — and less the people they chose to follow him as.
+**Cost:** Each use causes one of Egris's followers to lose a memory of their former life. Over time, they become more fully citizens of his new world — and less the people they chose to follow him as.
 
-**The question Khan must face:** Is he building a nation, or is he erasing people to fill it?
+**The question Egris must face:** Is he building a nation, or is he erasing people to fill it?
 
 ---
 

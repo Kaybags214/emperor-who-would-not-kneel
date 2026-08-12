@@ -60,7 +60,7 @@ The sky above it is neither day nor night. Gray, lightless, absolute.
 
 **Panel 1 — Medium**
 
-Khan from behind. Standing. Already on his feet — he woke standing, not lying down.
+Egris from behind. Standing. Already on his feet — he woke standing, not lying down.
 
 He is wearing what he died in. Simple. Worn. He looks like what he is: a man who spent sixty years in the field.
 
@@ -68,7 +68,7 @@ He is wearing what he died in. Simple. Worn. He looks like what he is: a man who
 
 He sees the plain for the first time. Thousands of souls on their knees, stretching to the horizon. Men and women from every era — Roman armor next to Ming dynasty robes next to pre-colonial African warriors. All of them bowing.
 
-**Panel 3 — Close on Khan's face**
+**Panel 3 — Close on Egris's face**
 
 He is not afraid. He is reading the room the way a general reads terrain.
 
@@ -88,7 +88,7 @@ The right gate: black iron, jagged edges, always slightly open. Heat from inside
 
 **Panel 2 — Medium**
 
-Khan looks from one gate to the other. He does not move toward either.
+Egris looks from one gate to the other. He does not move toward either.
 
 **Panel 3 — Close**
 
@@ -107,7 +107,7 @@ The two gates begin to open. From the left: light, structured, organized. From t
 
 Both opening simultaneously. Both reaching for the same point in the middle of the plain.
 
-Where Khan stands.
+Where Egris stands.
 
 **No dialogue. Let the image speak.**
 
@@ -129,7 +129,7 @@ A figure steps through the heat. This one looks more human — almost too human.
 
 **Panel 3 — Medium, between them**
 
-Khan. Still. Between both figures. Neither looking up at them nor looking away.
+Egris. Still. Between both figures. Neither looking up at them nor looking away.
 
 ---
 
@@ -138,14 +138,14 @@ Khan. Still. Between both figures. Neither looking up at them nor looking away.
 **Panel 1 — Wide, God speaking**
 
 **GOD:**
-> "Genghis Khan. You have arrived."
+> "Genghis Egris. You have arrived."
 
 **Panel 2 — Medium, Satan speaking (overlapping God's energy)**
 
 **SATAN:**
 > "He always arrives. That was never in question."
 
-**Panel 3 — Close on Khan**
+**Panel 3 — Close on Egris**
 
 He says nothing. Still reading.
 
@@ -167,7 +167,7 @@ He says nothing. Still reading.
 >
 > "That understanding belongs with me."
 
-**Panel 3 — Khan, unmoved**
+**Panel 3 — Egris, unmoved**
 
 Still nothing.
 
@@ -175,15 +175,15 @@ Still nothing.
 
 ## Page 11
 
-**Panel 1 — Wide, God and Satan on opposite sides of Khan**
+**Panel 1 — Wide, God and Satan on opposite sides of Egris**
 
 **GOD:**
-> "Choose, Genghis Khan. Every soul must pass through one of these gates."
+> "Choose, Genghis Egris. Every soul must pass through one of these gates."
 
 **SATAN:**
 > "Choose. Or we choose for you."
 
-**Panel 2 — Close on Khan's eyes**
+**Panel 2 — Close on Egris's eyes**
 
 Something shifts. Not anger. Recognition.
 
@@ -195,7 +195,7 @@ He knows exactly what to do.
 
 ## Page 12
 
-**Panel 1 — Medium, Khan speaks for the first time**
+**Panel 1 — Medium, Egris speaks for the first time**
 
 **KHAN:**
 > "You speak to me as though I am a soul to be sorted."
@@ -213,7 +213,7 @@ He knows exactly what to do.
 
 **Panel 1 — Full page**
 
-Khan turns his back on both gates.
+Egris turns his back on both gates.
 
 He walks — not toward the Wastes yet, just away from both gates simultaneously. A deliberate act. Every kneeling soul on the plain can see it.
 
@@ -234,9 +234,9 @@ He walks — not toward the Wastes yet, just away from both gates simultaneously
 **GOD:**
 > "He will come to a gate eventually. They all do."
 
-**Panel 3 — Wide, Khan walking**
+**Panel 3 — Wide, Egris walking**
 
-**Caption (Khan, internal):**
+**Caption (Egris, internal):**
 > *They believe that because every soul before me has believed it too.*
 
 ---
@@ -245,7 +245,7 @@ He walks — not toward the Wastes yet, just away from both gates simultaneously
 
 **Panel 1 — Medium**
 
-Khan stops walking. He looks at the ground in front of him — the exact point between the two gates' reach.
+Egris stops walking. He looks at the ground in front of him — the exact point between the two gates' reach.
 
 **Panel 2 — Wide**
 
@@ -261,13 +261,13 @@ What he picked up: a crown. Simple. Left in the dirt. It doesn't matter which go
 
 ## Page 16
 
-**Panel 1 — Wide, Khan standing with the crown in his hand**
+**Panel 1 — Wide, Egris standing with the crown in his hand**
 
 He examines it.
 
 **Panel 2 — Close on the crown in his hand**
 
-**Panel 3 — Khan, full body**
+**Panel 3 — Egris, full body**
 
 He drives the crown into the stone ground at his feet. Not discarding it — planting it. Like a stake. Like a claim.
 
@@ -280,7 +280,7 @@ He drives the crown into the stone ground at his feet. Not discarding it — pla
 
 **Panel 1 — Full page**
 
-The crown, driven into the black stone. God on one side. Satan on the other. Khan standing over it.
+The crown, driven into the black stone. God on one side. Satan on the other. Egris standing over it.
 
 The kneeling souls in every direction watching.
 
@@ -300,7 +300,7 @@ Silence.
 **SATAN:**
 > "You would not be the first soul to refuse. You would be the first to survive it."
 
-**Panel 3 — Khan, turning toward the horizon**
+**Panel 3 — Egris, turning toward the horizon**
 
 He can see the edge of the plain. Where the black stone ends. Where the Wastes begin.
 
@@ -313,7 +313,7 @@ He can see the edge of the plain. Where the black stone ends. Where the Wastes b
 
 **Panel 1 — Wide**
 
-Khan begins walking toward the horizon. The edge of the plain. The Wastes.
+Egris begins walking toward the horizon. The edge of the plain. The Wastes.
 
 **Panel 2 — Behind him: God and Satan, both still**
 
@@ -327,11 +327,11 @@ Neither follows. Not yet.
 
 **Panel 1 — The kneeling souls**
 
-One of them — a soldier, ancient armor, unrecognizable culture — watches Khan walk away.
+One of them — a soldier, ancient armor, unrecognizable culture — watches Egris walk away.
 
 **Panel 2 — The soldier looks at the gate in front of them**
 
-**Panel 3 — The soldier looks back at Khan**
+**Panel 3 — The soldier looks back at Egris**
 
 ---
 
@@ -345,7 +345,7 @@ The souls around them notice.
 
 **Panel 2 — Wide**
 
-The soldier walks after Khan. One person. Not running. Just walking.
+The soldier walks after Egris. One person. Not running. Just walking.
 
 **Panel 3 — Close on God and Satan watching**
 
@@ -359,7 +359,7 @@ The soldier walks after Khan. One person. Not running. Just walking.
 
 **Full spread**
 
-Khan walking toward the edge of the plain. The Wastes visible beyond — ruins, gray sky, the suggestion of a vast and ancient emptiness.
+Egris walking toward the edge of the plain. The Wastes visible beyond — ruins, gray sky, the suggestion of a vast and ancient emptiness.
 
 Behind him, at a distance: one soul following. Just one.
 
@@ -371,7 +371,7 @@ The two gates behind them. The crown in the stone. God and Satan watching.
 
 ## Page 24 — Final page
 
-**Panel 1 — Close on Khan's face, looking forward**
+**Panel 1 — Close on Egris's face, looking forward**
 
 Not triumphant. Not afraid. Working.
 
@@ -395,7 +395,7 @@ The edge of the plain. One step from the Wastes.
 ## Director's Notes
 
 - This chapter has almost no action. It is entirely about presence and refusal. The art must carry the weight that the dialogue does not.
-- Khan should never look small on the page — even when surrounded by divine beings, frame him as someone who fills his space.
-- The kneeling souls in the background are important. They are the contrast. Every page they appear on, they are on their knees. Khan never is.
+- Egris should never look small on the page — even when surrounded by divine beings, frame him as someone who fills his space.
+- The kneeling souls in the background are important. They are the contrast. Every page they appear on, they are on their knees. Egris never is.
 - The crown in the stone is the chapter's central image. Return to it at least three times after it is planted.
-- Final spread: Khan walking away from everything, one soul choosing to follow — this is the emotional core of the series, established in the first chapter. Do not rush it.
+- Final spread: Egris walking away from everything, one soul choosing to follow — this is the emotional core of the series, established in the first chapter. Do not rush it.

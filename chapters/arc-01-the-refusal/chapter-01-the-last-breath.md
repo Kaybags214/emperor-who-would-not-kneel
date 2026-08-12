@@ -1,6 +1,6 @@
 # Chapter 1 — The Last Breath
 
-The last thing Genghis Khan heard was wind.
+The last thing Genghis Egris heard was wind.
 
 It moved across the plain with the long, unbroken cry of winter grass. It carried no banners. No horses answered it. No man shouted his name.
 
@@ -10,7 +10,7 @@ He opened his eyes.
 
 Black stone stretched beneath him, smooth as a blade and cold through the weight of his body. Above, there was no sky. There was only a height without color, vast and depthless, as though night had been hammered into a ceiling over the world.
 
-Khan did not rise at once. A man who woke on unfamiliar ground and moved before looking had already given something away.
+Egris did not rise at once. A man who woke on unfamiliar ground and moved before looking had already given something away.
 
 His hands were empty. No bow. No knife. No sword. The silk at his wrists had become a plain gray robe, clean and thin. His body felt whole, though he remembered pain: a tightening in his chest, the taste of iron, the faces at the edge of a bed made unfamiliar by age. He remembered a son speaking too softly. He remembered trying to answer.
 
@@ -28,27 +28,27 @@ Most of them knelt.
 
 At the end of the plain stood two gates.
 
-They were so large that distance did not make them small. The gate to Khan's left was made of white metal, bright enough to hurt the eye. It had no hinges, no lock, no mark of craft, only a seam of gold light running from the stone into the empty height above. Behind it came a sound like water over clean rock.
+They were so large that distance did not make them small. The gate to Egris's left was made of white metal, bright enough to hurt the eye. It had no hinges, no lock, no mark of craft, only a seam of gold light running from the stone into the empty height above. Behind it came a sound like water over clean rock.
 
 The gate to his right was blacker than the plain, blacker even than the space overhead. Iron ribs crossed its surface. Red light pulsed faintly through its cracks, slow as a living heart. From beyond it came no cries.
 
 That silence was worse.
 
-A kneeling old man beside Khan whispered, "Heaven."
+A kneeling old man beside Egris whispered, "Heaven."
 
 Then, looking right, he whispered, "Hell."
 
-Khan studied both gates.
+Egris studied both gates.
 
 A choice between two masters was not freedom.
 
 The old man looked up at him. His face was wet. "You must kneel."
 
-Khan said nothing.
+Egris said nothing.
 
-The man bowed lower, as if Khan's silence had struck him. Around them, the kneeling souls murmured prayers in languages Khan did not know. Some pressed their foreheads to the black stone. Others wept with the exhausted terror of people who had discovered that death had not ended judgment.
+The man bowed lower, as if Egris's silence had struck him. Around them, the kneeling souls murmured prayers in languages Egris did not know. Some pressed their foreheads to the black stone. Others wept with the exhausted terror of people who had discovered that death had not ended judgment.
 
-Khan stood.
+Egris stood.
 
 A shudder passed through the crowd. Not loud. Not yet. But people noticed. A few turned their faces away from him. Others stared at him with recognition beginning where fear had already been.
 
@@ -62,11 +62,11 @@ At the center of the plain, he stopped. From here he could see that the white ga
 
 A voice came from the white gate.
 
-"Khan."
+"Egris."
 
 It was not loud. It did not need to be. Every prayer stopped.
 
-The seam of gold widened. Light spilled across the stone and stopped at Khan's feet. Within it stood a figure robed in brightness. Khan could not see a face, only the suggestion of one: calm, patient, and older than the mountains of his first homeland.
+The seam of gold widened. Light spilled across the stone and stopped at Egris's feet. Within it stood a figure robed in brightness. Egris could not see a face, only the suggestion of one: calm, patient, and older than the mountains of his first homeland.
 
 The voice spoke again. "You have come far."
 
@@ -78,9 +78,9 @@ The sound rolled over the plain like thunder trapped underground. Red light wide
 
 The souls bent lower.
 
-Khan did not.
+Egris did not.
 
-The bright figure looked at him. The dark one did as well. For the first time since opening his eyes, Khan felt the attention of something that could not be measured by men, armies, rivers, or walls.
+The bright figure looked at him. The dark one did as well. For the first time since opening his eyes, Egris felt the attention of something that could not be measured by men, armies, rivers, or walls.
 
 He remembered every ruler who had demanded obedience before offering reward. He remembered every messenger who had arrived smiling before an ultimatum.
 

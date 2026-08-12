@@ -2,7 +2,7 @@
 
 > *"He spent his life conquering nations — he would not begin kneeling now."*
 
-A manga series about Genghis Khan awakening in the afterlife, refusing to serve God or Satan, and building his own empire from the dead — while the Reaper watches from the edge of existence.
+A manga series about Genghis Egris awakening in the afterlife, refusing to serve God or Satan, and building his own empire from the dead — while the Reaper watches from the edge of existence.
 
 ---
 
@@ -18,11 +18,11 @@ A manga series about Genghis Khan awakening in the afterlife, refusing to serve 
 
 ```
 /story-bible      — Core premise, themes, series arc, and ending direction
-/characters       — Character profiles: Khan, God, Satan, the Reaper, and key allies
+/characters       — Character profiles: Egris, God, Satan, the Reaper, and key allies
 /world            — The afterlife territories: Heaven, Hell, the Wastes
 /power-system     — Faith, Fear, and Legacy — how authority becomes power
 /chapters         — Chapter-by-chapter scripts and scene breakdowns
-/arc-01-the-refusal — Arc 1: Chapters 1–7, Khan's arrival and first moves
+/arc-01-the-refusal — Arc 1: Chapters 1–7, Egris's arrival and first moves
 /art-notes        — Visual direction, panel layout notes, design references
 /scripts          — Full manga script format (panel-by-panel)
 ```

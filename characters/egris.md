@@ -1,4 +1,4 @@
-# Character — Genghis Khan
+# Character — Genghis Egris
 
 ## Role
 Protagonist. The Emperor Who Would Not Kneel.
@@ -16,7 +16,7 @@ He instinctively turns every relationship into a hierarchy. Even when people wil
 > If I refuse every god, am I truly free — or am I merely serving my own ambition?
 
 ## Arc
-Khan begins as a man whose identity is entirely built on conquest. In death, he has nothing left to conquer — until he creates the Wastes as his new frontier. But building a nation from free souls forces him to confront the flaw he has never had to face: can he lead without owning?
+Egris begins as a man whose identity is entirely built on conquest. In death, he has nothing left to conquer — until he creates the Wastes as his new frontier. But building a nation from free souls forces him to confront the flaw he has never had to face: can he lead without owning?
 
 The Reaper's mark accelerates this — every use of its power costs a follower a piece of their memory. He is literally consuming the lives of those who follow him. This mirrors his living conquests in a way he cannot ignore.
 
@@ -24,9 +24,9 @@ The Reaper's mark accelerates this — every use of its power costs a follower a
 **Legacy** — Power created when people continue to remember and follow someone after death. The more people freely choose him, the stronger he becomes. The moment they follow him from fear or because they have no other choice, his power weakens.
 
 ## Key Relationships
-- **God:** Mutual respect and mutual rejection. God sees Khan as dangerous precisely because he is disciplined — not chaotic.
-- **Satan:** Temptation disguised as kinship. Satan claims to be his natural ally. Khan knows better.
-- **The Reaper:** The most dangerous relationship. The Reaper does not want to fight Khan — he wants to use him.
+- **God:** Mutual respect and mutual rejection. God sees Egris as dangerous precisely because he is disciplined — not chaotic.
+- **Satan:** Temptation disguised as kinship. Satan claims to be his natural ally. Egris knows better.
+- **The Reaper:** The most dangerous relationship. The Reaper does not want to fight Egris — he wants to use him.
 - **His first follower:** The person who chooses him in the Wastes becomes his conscience. Not a general. Not a warrior. Someone who follows him because they believe in what he said he would build.
 
 ## Visual Notes

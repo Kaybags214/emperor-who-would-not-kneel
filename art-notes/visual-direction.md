@@ -8,7 +8,7 @@ Dark. Heavy. Epic in scale but intimate in character moments. Think less "shonen
 
 ## Character Design Principles
 
-### Genghis Khan
+### Genghis Egris
 - Mongol features. Not westernized.
 - Practical, worn clothing and armor. This is a man who spent 60 years in the field. Nothing ornamental.
 - No crown until the series earns it — and when it appears, it should be meaningful.
@@ -63,9 +63,9 @@ Dark. Heavy. Epic in scale but intimate in character moments. Think less "shonen
 ## Panel Layout Philosophy
 
 - Wide establishing shots for the afterlife territories — emphasize scale.
-- Tight close-ups for character moments — Khan's eyes carry half the chapter.
+- Tight close-ups for character moments — Egris's eyes carry half the chapter.
 - When two divine powers appear together: asymmetrical panel layout. They do not share equal space. Let their composition fight.
-- When Khan is between them: he gets the center panel. Always. His placement is never accidental.
+- When Egris is between them: he gets the center panel. Always. His placement is never accidental.
 - Silence pages: at least one full page per chapter with no dialogue. Let the art breathe.
 - The Reaper: when he appears in a panel, other figures in the same panel should instinctively have less detail. As if his presence draws focus out of everything around him.
 
@@ -74,7 +74,7 @@ Dark. Heavy. Epic in scale but intimate in character moments. Think less "shonen
 ## Key Visual Moments to Protect
 
 1. **The crown driven into the stone** — Chapter 1. The defining image of the series. Return to it throughout Arc 1.
-2. **Khan walking away from both gates** — Chapter 1. Never frame this from the front. Always from behind or from the side. We see where he is going, not his expression.
+2. **Egris walking away from both gates** — Chapter 1. Never frame this from the front. Always from behind or from the side. We see where he is going, not his expression.
 3. **The first follower standing up** — Chapter 1. One soul stopping kneeling among thousands. Frame it wide so the contrast is visible.
-4. **The Reaper's mark appearing** — Chapter 7. No drama. Khan just looks at his hand. The quieter this moment is, the more threatening it feels.
-5. **The Wastes, first view** — Chapter 4. Full page or double spread. Establish the scale of what Khan has claimed as his territory.
+4. **The Reaper's mark appearing** — Chapter 7. No drama. Egris just looks at his hand. The quieter this moment is, the more threatening it feels.
+5. **The Wastes, first view** — Chapter 4. Full page or double spread. Establish the scale of what Egris has claimed as his territory.

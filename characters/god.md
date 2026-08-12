@@ -9,9 +9,9 @@ Order, law, permanence, and obedience. God believes freedom without structure be
 ## Portrayal
 God should not be portrayed as purely good. He has watched civilizations burn because they refused guidance. He has made hard decisions. He does not apologize for them.
 
-He admires Khan's discipline. He considers Khan's independence dangerous not because it threatens God's power — but because God genuinely believes that a being with Khan's influence, operating without divine law, will eventually destroy the people who follow him.
+He admires Egris's discipline. He considers Egris's independence dangerous not because it threatens God's power — but because God genuinely believes that a being with Egris's influence, operating without divine law, will eventually destroy the people who follow him.
 
-## How He Sees Khan
+## How He Sees Egris
 A flawed instrument. Someone who could accomplish great things under divine authority. Someone who is wasting himself by refusing the one structure that could make his conquests permanent.
 
 ## His Offer

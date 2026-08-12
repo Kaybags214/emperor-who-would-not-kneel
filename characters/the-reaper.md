@@ -16,24 +16,24 @@ He does not attack. He manipulates.
 
 He has watched every soul who passed through the afterlife. He understands God and Satan better than they understand themselves. Rather than confronting them directly, he lets their war continue while he waits.
 
-When Khan refuses both offers, the Reaper takes notice. Khan is the first variable he has not predicted in a very long time.
+When Egris refuses both offers, the Reaper takes notice. Egris is the first variable he has not predicted in a very long time.
 
-He studies Khan. He marks him. He grants power through the mark — but at a cost that Khan may not discover until it is too late.
+He studies Egris. He marks him. He grants power through the mark — but at a cost that Egris may not discover until it is too late.
 
 ## His Central Question
 > What is an emperor without subjects, a god without worshippers, or a universe without an ending?
 
-## His Relationship with Khan
-The most complex relationship in the series. The Reaper does not want to fight Khan. He wants Khan to do something no other being has ever done: break the system entirely.
+## His Relationship with Egris
+The most complex relationship in the series. The Reaper does not want to fight Egris. He wants Egris to do something no other being has ever done: break the system entirely.
 
-He suspects Khan may be the only being capable of taking the throne from both divine powers — not to keep it, but to destroy it. And that is exactly what the Reaper needs.
+He suspects Egris may be the only being capable of taking the throne from both divine powers — not to keep it, but to destroy it. And that is exactly what the Reaper needs.
 
-Whether the Reaper is wrong about Khan — or right about him for the wrong reasons — is the core tension of the late series.
+Whether the Reaper is wrong about Egris — or right about him for the wrong reasons — is the core tension of the late series.
 
 ## The Mark
-The black mark on Khan's hand that appears after the battle in Chapter 7. Each use grants Khan power drawn from the Reaper's authority over death. Each use also causes one of Khan's followers to lose a memory of their former life — slowly erasing who they were before death, making them more fully citizens of Khan's new world.
+The black mark on Egris's hand that appears after the battle in Chapter 7. Each use grants Egris power drawn from the Reaper's authority over death. Each use also causes one of Egris's followers to lose a memory of their former life — slowly erasing who they were before death, making them more fully citizens of Egris's new world.
 
-Khan does not know whether this is an accident of the power, or the Reaper's design.
+Egris does not know whether this is an accident of the power, or the Reaper's design.
 
 ## Power Type
 None of the three categories apply. The Reaper does not need faith, fear, or legacy. He simply is. Every soul eventually comes to him regardless of allegiance.
@@ -42,4 +42,4 @@ None of the three categories apply. The Reaper does not need faith, fear, or leg
 - Not a skeleton in a robe. Something more unsettling — a figure that seems to absorb light, not reflect it.
 - Appears calm at all times. Never urgent. He has infinite time.
 - The few moments when the Reaper shows interest in something should feel like a drop in temperature in the room.
-- The mark on Khan's hand should subtly echo the Reaper's visual signature.
+- The mark on Egris's hand should subtly echo the Reaper's visual signature.

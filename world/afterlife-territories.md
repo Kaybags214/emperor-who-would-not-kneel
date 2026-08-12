@@ -17,7 +17,7 @@ Heaven is visually stunning and structurally suffocating. Souls who do not fit t
 
 **Architecture:** Vast, white, geometric. Cathedrals that have no ceiling. Light that has no source. Everything is clean and proportional and permanent.
 
-**Key location:** The Throne Hall — where God receives souls and delivers judgment. Khan will eventually stand here.
+**Key location:** The Throne Hall — where God receives souls and delivers judgment. Egris will eventually stand here.
 
 ---
 
@@ -43,7 +43,7 @@ Hell is loud, violent, and alive in a way Heaven is not. It is also completely w
 
 The neutral land between Heaven and Hell. Filled with forgotten souls, dead civilizations, monsters, and abandoned gods — beings who were once worshipped and lost all their believers, leaving them stranded between realms.
 
-This is where Khan begins. It is the only territory neither God nor Satan fully controls, because neither of them wants it badly enough to hold it.
+This is where Egris begins. It is the only territory neither God nor Satan fully controls, because neither of them wants it badly enough to hold it.
 
 **Who lives here:**
 - Souls whose deaths were never properly recorded — people history forgot
@@ -55,7 +55,7 @@ This is where Khan begins. It is the only territory neither God nor Satan fully 
 - The Hollow Men — souls erased from history and transformed into predators
 
 **Why it matters:**  
-Khan sees these forgotten souls as the perfect foundation for a new nation. They have nothing — no god, no master, no identity anymore. But they also have no chains.
+Egris sees these forgotten souls as the perfect foundation for a new nation. They have nothing — no god, no master, no identity anymore. But they also have no chains.
 
 **Architecture:** Ruins of every civilization that ever existed, layered on top of each other. A Roman aqueduct crumbling next to a Mesopotamian ziggurat. A medieval siege wall half-buried in desert sand. Everything forgotten, everything preserved.
 
@@ -70,4 +70,4 @@ Where all three territories meet, there is a plain of black stone. Two enormous 
 
 Every soul who dies arrives on this plain first. God and Satan both have agents here, competing to claim incoming souls before they can choose for themselves.
 
-Khan's first act is driving a crown into the ground between the two gates — claiming the space between them as his own territory.
+Egris's first act is driving a crown into the ground between the two gates — claiming the space between them as his own territory.
