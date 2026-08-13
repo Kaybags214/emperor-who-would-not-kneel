@@ -1,661 +1,1024 @@
-Chapter 6: The Infernal Bargain
+# THE EMPEROR WHO WOULD NOT KNEEL
+## Chapter 6 — "The Infernal Bargain"
 
-The heavenly host did not descend.
+*Format: Traditional right-to-left manga script. Read panels right-to-left, top-to-bottom.
+Black-and-white. Heavy ink shadow, cinematic negative space, screentone.
+Approx. 38 pages.*
 
-Not yet.
+---
 
-They remained suspended in the torn sky above the Wastes—hundreds of white shapes outlined by fire, their spears pointed downward, their wings motionless.
+### PAGE 1
+**Panels: 3**
 
-The camp beneath them waited.
+**Panel 1** *(wide, full-width top — continuing directly from Ch.5)*
+The heavenly host does NOT descend. Not yet. They remain suspended in the torn sky above the Wastes — hundreds of white shapes outlined by fire, spears pointed downward, wings motionless.
+*No dialogue.*
 
-No one spoke.
+**Panel 2** *(narrow, the camp waits)*
+The camp beneath them waits. No one speaks. The dead stand in their ragged line behind Egris.
+*No dialogue.*
 
-The dead stood in a ragged line behind Egris. The woman in red held the boy's hand so tightly that his fingers had gone pale. The two brothers stood near one another now, though they did not look at each other. The old soldier, Borchu, gripped a length of broken stone like a club.
+**Panel 3**
+The woman in red holds the boy's hand so tightly his fingers have gone pale. The two brothers stand near one another, not looking at each other. BORCHU grips broken stone like a club.
+*No dialogue.*
 
-The young soldier with the split breastplate held his sword in both hands.
+---
 
-His knuckles trembled.
+### PAGE 2
+**Panels: 4**
 
-Egris stood at the front with his cracked spear.
+**Panel 1**
+A young soldier with a split breastplate holds his sword in both hands. His knuckles TREMB
 
-Across from him, Seraphel watched in silence.
+LE.
+*No dialogue.*
 
-The angel's burning sword remained raised, its light pouring over the battlefield.
+**Panel 2**
+EGRIS stands at the front with his cracked spear.
+*No dialogue.*
 
-"You have made your decision," Seraphel said.
+**Panel 3**
+Across from him, SERAPHEL watches in silence, burning sword still raised.
+*No dialogue.*
 
-"No," Egris answered. "They have."
+**Panel 4**
+SERAPHEL: "You have made your decision."
 
-Seraphel looked past him at the gathered souls.
+---
 
-"They do not understand what waits for them."
+### PAGE 3
+**Panels: 3**
 
-"Neither do you."
+**Panel 1**
+EGRIS: "No. They have."
 
-A tremor passed through the air.
+**Panel 2**
+SERAPHEL looks past him at the gathered souls.
+SERAPHEL: "They do not understand what waits for them."
 
-Not from the heavens.
+**Panel 3**
+EGRIS: "Neither do you."
 
-From beneath the ground.
+---
 
-The ash at Egris's feet shifted.
+### PAGE 4
+**Panels: 2** *(silent — dread building)*
 
-Then the pale light above them flickered.
+**Panel 1** *(wide — a tremor passes through the air)*
+Not from the heavens. From BENEATH the ground.
+SFX: `...rmmmmble...`
 
-Every angel in the sky turned at once.
+**Panel 2**
+The ash at Egris's feet shifts.
+SFX: `sssssh`
 
-For the first time, Egris saw something close to uncertainty cross Seraphel's face.
+---
 
-A black line opened across the far horizon.
+### PAGE 5
+**Panels: 3**
 
-It began beneath the broken ruins where the Hollow Men had emerged the day before. At first, it was no wider than a sword cut in the earth. Then it spread outward, splitting stone and swallowing ash.
+**Panel 1**
+The pale light above them FLICKERS.
+*No dialogue.*
 
-A sound rose from it.
+**Panel 2**
+Every angel in the sky turns at once — away from Egris, toward something else.
+*No dialogue.*
 
-Laughter.
+**Panel 3**
+Close on SERAPHEL's face — for the first time, something close to UNCERTAINTY.
+*No dialogue.*
 
-Not loud laughter.
+---
 
-Worse than that.
+### PAGE 6
+**Panels: 1** *(FULL-PAGE SPLASH — page-turn reveal)*
 
-The sound of someone enjoying a thing before it had even happened.
+A BLACK LINE opens across the far horizon. It begins beneath the broken ruins where the Hollow Men had emerged. At first, no wider than a sword cut in the earth. Then it SPREADS outward, splitting stone, swallowing ash.
 
-The angels' white fire dimmed as darkness poured from the crack in the earth.
+A sound rises from it: LAUGHTER. Not loud. Worse than that. The sound of someone enjoying a thing before it has even happened.
 
-It rolled low across the Wastes like smoke, but it did not rise. It crawled. It touched the shattered road, the broken archway, the old bones of abandoned buildings—and wherever it passed, the ruins changed.
+SFX (deep, layered): `hehehehe...hahahaha...`
 
-Stone became black glass.
+---
 
-Ash became red sand.
+### PAGE 7
+**Panels: 3**
 
-The cold air became thick with heat.
+**Panel 1**
+The angels' white fire DIMS as darkness pours from the crack — rolling low across the Wastes like smoke, but it does not rise. It crawls.
+*No dialogue.*
 
-The dead behind Egris began to cough, though none of them needed breath.
+**Panel 2**
+Wherever it touches, the ruins CHANGE. Stone becomes black glass. Ash becomes red sand.
+*No dialogue.*
 
-Seraphel lowered his blade.
+**Panel 3**
+The cold air becomes thick with heat. The dead behind Egris begin to COUGH, though none need breath.
+SFX (coughing, scattered)
 
-"This does not concern you," Egris said.
+---
 
-The angel's gaze remained fixed on the spreading darkness.
+### PAGE 8
+**Panels: 3**
 
-"It concerns all who remain in this realm."
+**Panel 1**
+SERAPHEL lowers his blade.
+*No dialogue.*
 
-"Then perhaps Heaven should have arrived sooner."
+**Panel 2**
+EGRIS, flat.
+EGRIS: "This does not concern you."
 
-Seraphel looked at him sharply.
+**Panel 3**
+SERAPHEL's gaze remains fixed on the spreading darkness.
+SERAPHEL: "It concerns all who remain in this realm."
 
-But before he could answer, the black line in the earth split open.
+---
 
-Figures climbed out.
+### PAGE 9
+**Panels: 3**
 
-They wore armor, though it seemed made from fused bone and iron. Their helmets had no eyeholes. Red fire burned in the narrow gaps around their mouths. Some carried hooked chains. Others carried axes with blades that dripped smoke onto the ground.
+**Panel 1**
+EGRIS: "Then perhaps Heaven should have arrived sooner."
 
-They marched in formation.
+**Panel 2**
+SERAPHEL looks at him sharply.
+*No dialogue.*
 
-Unlike the frightened dead behind Egris, they moved as one body.
+**Panel 3**
+Before he can answer, the black line in the earth SPLITS OPEN.
+SFX: `KRA-KOOM`
 
-No hesitation.
+---
 
-No fear.
+### PAGE 10
+**Panels: 2**
 
-No choice.
+**Panel 1** *(large, top — figures climb out)*
+They wear armor made from fused bone and iron. Helmets with no eyeholes. Red fire burns in narrow gaps around their mouths. Some carry hooked chains. Others axes that drip smoke onto the ground.
+*No dialogue.*
 
-At their center walked a man Egris recognized.
+**Panel 2** *(wide, bottom)*
+They march in FORMATION. Unlike the frightened dead behind Egris, they move as one body. No hesitation. No fear. No choice.
+*No dialogue.*
 
-He wore no armor.
+---
 
-Only a dark robe bound at the waist by a belt of braided leather. His hair was cut close to his head. A scar ran from the corner of his mouth to his left ear. His face was older than Egris remembered, but in death everyone became what they had been at the moment that mattered most.
+### PAGE 11
+**Panels: 1** *(FULL-PAGE SPLASH — the STRANGER arrives)*
 
-The man carried a curved sword in one hand.
+At the center of the infernal soldiers walks a MAN Egris recognizes. He wears no armor — only a dark robe bound at the waist by braided leather. Hair cut close to his head. A scar runs from the corner of his mouth to his left ear. He carries a curved sword in one hand, its edge shining red.
 
-Its edge shone red.
+EGRIS's face: recognition. Old, cold recognition.
 
-Borchu saw Egris's expression.
+---
 
-"You know him?"
+### PAGE 12
+**Panels: 3**
 
-Egris did not answer.
+**Panel 1**
+BORCHU sees Egris's expression.
+BORCHU: "You know him?"
 
-The man continued forward until he stood between the infernal soldiers and Heaven's envoy.
+**Panel 2**
+EGRIS does not answer.
+*No dialogue.*
 
-He looked at Seraphel first.
+**Panel 3**
+The STRANGER continues forward until he stands between the infernal soldiers and Seraphel. He looks at the angel first. Then he SMILES.
+*No dialogue.*
 
-Then he smiled.
+---
 
-"Well," he said. "They truly did send an angel."
+### PAGE 13
+**Panels: 3**
 
-Seraphel's voice hardened. "You do not belong here, demon."
+**Panel 1**
+STRANGER: "Well. They truly did send an angel."
 
-The man spread his arms slightly.
+**Panel 2**
+SERAPHEL, voice hard.
+SERAPHEL: "You do not belong here, demon."
 
-"Neither does he."
+**Panel 3**
+The STRANGER spreads his arms slightly.
+STRANGER: "Neither does he."
 
-His eyes settled on Egris.
+---
 
-For a moment, the Wastes disappeared.
+### PAGE 14
+**Panels: 2**
 
-Egris saw another place.
+**Panel 1**
+His eyes settle on EGRIS.
+*No dialogue.*
 
-A field beneath a burning sky.
+**Panel 2** *(wide — a memory flash, screentoned/ghosted)*
+For a moment, the Wastes disappear. Egris sees another place: a field beneath a burning sky. Men shouting. Horses screaming. A camp of torn tents. The same face, younger, holding a sword wet with blood.
+NARRATION (box): *He remembered the betrayal.*
 
-Men shouting.
+---
 
-Horses screaming.
+### PAGE 15
+**Panels: 3**
 
-A camp of torn tents and overturned wagons.
+**Panel 1**
+EGRIS, cold.
+EGRIS: "You are dead."
 
-He saw the same scarless face standing across from him, younger then, holding a sword wet with blood.
+**Panel 2**
+The STRANGER gives a small bow.
+STRANGER: "So are you."
 
-He remembered the betrayal.
+**Panel 3**
+The dead behind Egris shift uneasily. The young soldier lowers his sword a fraction. Borchu studies the stranger with narrowed eyes.
+*No dialogue.*
 
-Not the details.
+---
 
-Those had blurred with time.
+### PAGE 16
+**Panels: 3**
 
-But he remembered the feeling: trust turning cold in his chest before he understood why.
+**Panel 1**
+BORCHU: "Who is he?"
 
-"You are dead," Egris said.
+**Panel 2**
+EGRIS's jaw tightens.
+EGRIS: "Someone who thought a throne mattered more than loyalty."
 
-The man gave a small bow.
+**Panel 3**
+The STRANGER laughs.
+SFX: `heh`
 
-"So are you."
+---
 
-The dead behind Egris shifted uneasily.
+### PAGE 17
+**Panels: 3**
 
-The young soldier lowered his sword a fraction.
+**Panel 1**
+STRANGER: "And there he is."
 
-Borchu studied the stranger with narrowed eyes.
+**Panel 2**
+He walks closer. The infernal soldiers behind him stop at the edge of the darkened ground, standing perfectly still.
+*No dialogue.*
 
-"Who is he?" the old soldier asked.
+**Panel 3**
+STRANGER: "You still speak as if you were betrayed. As if you were innocent."
 
-Egris's jaw tightened.
+---
 
-"Someone who thought a throne mattered more than loyalty."
+### PAGE 18
+**Panels: 4**
 
-The stranger laughed.
+**Panel 1**
+EGRIS: "You swore an oath."
 
-"And there he is."
+**Panel 2**
+STRANGER: "I swore an oath to a leader who had not yet decided the world belonged to him."
 
-He walked closer.
+**Panel 3**
+EGRIS says nothing.
+*No dialogue.*
 
-The infernal soldiers behind him stopped at the edge of the darkened ground. They stood perfectly still, their chain weapons hanging from their fists.
+**Panel 4**
+The stranger's smile fades.
+*No dialogue.*
 
-"You still speak as if you were betrayed," the man said. "As if you were innocent."
+---
 
-"You swore an oath."
+### PAGE 19
+**Panels: 2**
 
-"I swore an oath to a leader who had not yet decided the world belonged to him."
+**Panel 1**
+STRANGER: "You conquered until no man could stand beside you without living in your shadow. You demanded unity, but you meant obedience."
 
-Egris said nothing.
+**Panel 2**
+STRANGER: "You spoke of brotherhood, then judged every brother by whether he served your ambition."
 
-The man's smile faded.
+---
 
-"You conquered until no man could stand beside you without living in your shadow. You demanded unity, but you meant obedience. You spoke of brotherhood, then judged every brother by whether he served your ambition."
+### PAGE 20
+**Panels: 3**
 
-The words struck close.
+**Panel 1**
+The words strike close. Too close.
+NARRATION (box): *The words struck close.*
 
-Too close.
+**Panel 2**
+EGRIS lifts his spear.
+EGRIS: "Say why you are here."
 
-Egris lifted his spear.
+**Panel 3**
+The stranger's expression brightens again.
+STRANGER: "Straight to the point. Good. Death has not softened you."
 
-"Say why you are here."
+---
 
-The man's expression brightened again.
+### PAGE 21
+**Panels: 4**
 
-"Straight to the point. Good. Death has not softened you."
+**Panel 1**
+EGRIS: "No."
 
-"No."
+**Panel 2**
+STRANGER: "It has not softened me either."
 
-"It has not softened me either."
+**Panel 3**
+He turns toward the camp. The frightened souls watch him like prey sensing a predator.
+*No dialogue.*
 
-He turned toward the camp.
+**Panel 4**
+STRANGER: "This is what you have now? A child. A grieving woman. Men too frightened to hold their weapons properly."
 
-The frightened souls watched him with the wary attention of animals sensing a predator.
+---
 
-"This is what you have now?" he asked. "A child. A grieving woman. Men too frightened to hold their weapons properly. A few lost souls pretending that standing together makes them a people."
+### PAGE 22
+**Panels: 4**
 
-The young soldier's grip tightened.
+**Panel 1**
+The young soldier's grip TIGHTENS on his sword.
+*No dialogue.*
 
-Egris took one step forward.
+**Panel 2**
+EGRIS takes one step forward.
+EGRIS: "You will not speak of them again."
 
-"You will not speak of them again."
+**Panel 3**
+The stranger's smile widens.
+STRANGER: "There. That is why *he* chose you."
 
-The stranger's smile widened.
+**Panel 4**
+EGRIS: "Who?"
 
-"There. That is why he chose you."
+---
 
-"Who?"
+### PAGE 23
+**Panels: 4**
 
-The stranger looked up toward the heavens.
+**Panel 1**
+The stranger looks up toward the heavens.
+STRANGER: "Not Him."
 
-"Not Him."
+**Panel 2**
+Then he looks down toward the fissure in the earth.
+STRANGER: "Not whatever waits below, either."
 
-Then he looked down toward the fissure in the earth.
+**Panel 3**
+His gaze returns to Egris.
+STRANGER: "The one who understands what you are."
 
-"Not whatever waits below, either."
+**Panel 4** *(wide — the black crack widens)*
+SFX: `KRRRK`
 
-His gaze returned to Egris.
+---
 
-"The one who understands what you are."
+### PAGE 24
+**Panels: 2**
 
-The black crack behind him widened.
+**Panel 1**
+A VOICE comes from the darkness. Soft. Warm. Almost kind.
+VOICE: "Egris."
 
-A voice came from the darkness.
+**Panel 2** *(wide — the name moves through him like fire)*
+The dead CRY OUT. Several fall to their knees. The boy covers his ears. The woman pulls him against her chest. Borchu remains standing, but color drains from his face.
+*No dialogue.*
 
-It was soft.
+---
 
-Warm.
+### PAGE 25
+**Panels: 3**
 
-Almost kind.
+**Panel 1**
+SERAPHEL raises his sword again.
+SERAPHEL: "Do not listen."
 
-"Egris."
+**Panel 2**
+EGRIS does not take his eyes from the darkness.
+EGRIS: "I was not speaking to you."
 
-The name moved through him like fire.
+**Panel 3**
+The voice CHUCKLES.
+VOICE: "You have always been speaking to me."
 
-The dead cried out.
+---
 
-Several fell to their knees.
+### PAGE 26
+**Panels: 1** *(FULL-PAGE SPLASH — SATAN's hand emerges)*
 
-The boy covered his ears. The woman pulled him against her chest. Borchu remained standing, but the color drained from his face.
+A HAND reaches out from the dark. Beautiful at first glance — pale skin, long fingers, a ring of black metal on every joint.
 
-Seraphel raised his sword again.
+Then Egris sees: the hand has TOO MANY FINGERS. And each ring bears the face of someone SCREAMING.
 
-"Do not listen."
+---
 
-Egris did not take his eyes from the darkness.
+### PAGE 27
+**Panels: 3**
 
-"I was not speaking to you."
+**Panel 1**
+The STRANGER in the dark robe lowers his head. Not in worship. In acknowledgment.
+*No dialogue.*
 
-The voice chuckled.
+**Panel 2**
+BORCHU whispers.
+BORCHU: "Satan."
 
-"You have always been speaking to me."
+**Panel 3**
+The word spreads through the camp. Some souls pray. Others back away.
+*No dialogue.*
 
-Then a shape appeared within the crack.
+---
 
-It did not emerge fully. It did not need to.
+### PAGE 28
+**Panels: 3**
 
-A hand reached out from the dark.
+**Panel 1**
+The VOICE from the darkness: "Do not call me by names others gave me. They only name what they fear."
 
-Beautiful at first glance. Pale skin. Long fingers. A ring of black metal on every joint.
+**Panel 2**
+EGRIS looks at the hand extending from the crack.
+EGRIS: "You sent him."
 
-Then Egris saw that the hand had too many fingers.
+**Panel 3**
+VOICE: "I sent an opportunity."
 
-And that each ring bore the face of someone screaming.
+---
 
-The stranger in the dark robe lowered his head.
+### PAGE 29
+**Panels: 4**
 
-Not in worship.
+**Panel 1**
+EGRIS: "I have had enough of those."
 
-In acknowledgment.
+**Panel 2**
+VOICE: "No. You have had commands dressed as gifts."
 
-Egris understood.
+**Panel 3**
+The black hand OPENS.
+*No dialogue.*
 
-"Satan," Borchu whispered.
+**Panel 4** *(close detail — the iron crown)*
+Resting in its palm: a small IRON CROWN. No jewels, no light, no symbols. Plain. Scarred. Heavy-looking. Made for war.
+*No dialogue.*
 
-The word spread through the camp.
+---
 
-Some souls prayed.
+### PAGE 30
+**Panels: 3**
 
-Others backed away.
+**Panel 1**
+VOICE: "Heaven offers you a place. I offer you a choice."
 
-The darkness seemed to enjoy both reactions.
+**Panel 2**
+SERAPHEL steps forward.
+SERAPHEL: "His choices always come with chains."
 
-"Do not call me by names others gave me," the voice said. "They only name what they fear."
+**Panel 3**
+The voice LAUGHS.
+VOICE: "And yours come with kneeling."
 
-Egris looked at the hand extending from the crack.
+---
 
-"You sent him."
+### PAGE 31
+**Panels: 3**
 
-"I sent an opportunity."
+**Panel 1**
+SERAPHEL's sword FLASHES. A line of white fire cuts through the air toward the fissure.
+SFX: `SHNNNG`
 
-"I have had enough of those."
+**Panel 2**
+The darkness SWALLOWS it. No explosion. No impact. The light simply disappears.
+*No dialogue.*
 
-"No. You have had commands dressed as gifts."
+**Panel 3**
+SERAPHEL stares at the empty space where it had been.
+*No dialogue.*
 
-The black hand opened.
+---
 
-Resting in its palm was a small iron crown.
+### PAGE 32
+**Panels: 2**
 
-Unlike the crown Heaven had offered, it had no jewels, no light, no symbols of law or holiness. It was plain. Scarred. Heavy-looking.
+**Panel 1**
+SATAN's hand remains extended toward Egris.
+VOICE: "Take it. The Wastes are filled with those Heaven abandoned."
 
-Made for war.
+**Panel 2**
+VOICE: "Give them banners. Give them weapons. Give them enemies. I will give you an army that never doubts, never fears, and never asks whether your cause is worth dying for."
 
-"Heaven offers you a place," Satan said. "I offer you a choice."
+---
 
-Seraphel stepped forward.
+### PAGE 33
+**Panels: 3**
 
-"His choices always come with chains."
+**Panel 1**
+EGRIS looks at the crown.
+*No dialogue.*
 
-The voice laughed again.
+**Panel 2**
+Then at the infernal soldiers. They stand in perfect discipline. They look like an army.
+*No dialogue.*
 
-"And yours come with kneeling."
+**Panel 3**
+NARRATION (box): *But Egris had known armies. He had known the sound of men whispering before battle. He had seen fear in their eyes, courage in spite of it. These creatures carried none of that. They were weapons waiting to be used.*
 
-The angel's sword flashed.
+---
 
-A line of white fire cut through the air toward the fissure.
+### PAGE 34
+**Panels: 3**
 
-The darkness swallowed it.
+**Panel 1**
+EGRIS: "And what do you take in return?"
 
-No explosion came.
+**Panel 2**
+SATAN's fingers curl slightly around the crown.
+VOICE: "Nothing you do not already desire."
 
-No impact.
+**Panel 3**
+The STRANGER beside the fissure laughs under his breath.
+*No dialogue.*
 
-The light simply disappeared.
+---
 
-Seraphel stared at the empty space where it had been.
+### PAGE 35
+**Panels: 4**
 
-Satan's hand remained extended.
+**Panel 1**
+EGRIS turns toward the stranger.
+EGRIS: "You believe that?"
 
-"Take it," the voice said to Egris. "The Wastes are filled with those Heaven abandoned. Give them banners. Give them weapons. Give them enemies. I will give you an army that never doubts, never fears, and never asks whether your cause is worth dying for."
+**Panel 2**
+STRANGER: "I know it."
 
-Egris looked at the crown.
+**Panel 3**
+EGRIS: "Then tell me."
 
-Then at the infernal soldiers.
+**Panel 4**
+The man's scar pulls tight as his smile vanishes.
+STRANGER: "Vengeance."
 
-They stood in their ranks with perfect discipline.
+---
 
-They looked like an army.
+### PAGE 36
+**Panels: 3**
 
-But Egris had seen armies.
+**Panel 1**
+The word comes quietly. But it cuts deeper than shouting.
+*No dialogue.*
 
-He had known the sound of men whispering before battle. He had seen fear in their eyes, courage in spite of it, rage, hunger, loyalty, and the private grief each carried beneath his armor.
+**Panel 2**
+STRANGER: "Take his army. Build your empire. Tear Heaven's gates down. Make every god understand what it means to be powerless."
 
-These creatures carried none of that.
+**Panel 3**
+STRANGER: "And when you are done, give me the men who betrayed me."
 
-They were weapons waiting to be used.
+---
 
-"And what do you take in return?" Egris asked.
+### PAGE 37
+**Panels: 3**
 
-Satan's fingers curled slightly around the crown.
+**Panel 1**
+EGRIS stares at him.
+*No dialogue.*
 
-"Nothing you do not already desire."
+**Panel 2**
+BORCHU mutters behind him.
+BORCHU: "There it is. The price."
 
-The stranger beside the fissure laughed under his breath.
+**Panel 3**
+The STRANGER's eyes flash.
+STRANGER: "You have no right to speak."
 
-Egris turned toward him.
+---
 
-"You believe that?"
+### PAGE 38
+**Panels: 4**
 
-"I know it."
+**Panel 1**
+BORCHU answers.
+BORCHU: "I have every right. You came asking another man to spend blood for your wound."
 
-"Then tell me."
+**Panel 2**
+The stranger takes a step toward him. Infernal fire moves along the edge of his sword.
+*No dialogue.*
 
-The man's scar pulled tight as his smile vanished.
+**Panel 3**
+EGRIS places himself between them.
+*No dialogue.*
 
-"Vengeance."
+**Panel 4**
+EGRIS: "You do not approach my people."
 
-The word came quietly.
+---
 
-But it cut deeper than shouting.
+### PAGE 39
+**Panels: 3**
 
-"Take his army," the man said. "Build your empire. Tear Heaven's gates down. Make every god understand what it means to be powerless. And when you are done, give me the men who betrayed me."
+**Panel 1**
+STRANGER: "Your people? You said they were not yours."
 
-Egris stared at him.
+**Panel 2**
+EGRIS: "They are under my protection."
 
-"There it is," Borchu muttered behind him. "The price."
+**Panel 3** *(wide — the words leave him before he can consider them)*
+The camp falls QUIET. The woman in red looks at him. So does the young soldier. Even Seraphel's expression changes.
+*No dialogue.*
 
-The stranger's eyes flashed.
+---
 
-"You have no right to speak."
+### PAGE 40
+**Panels: 3**
 
-"I have every right," Borchu answered. "You came asking another man to spend blood for your wound."
+**Panel 1**
+The STRANGER gives a slow, mocking nod.
+STRANGER: "Protection becomes command. Command becomes ownership. You know this. You have always known it."
 
-The stranger took a step toward him.
+**Panel 2**
+EGRIS looks at the dead behind him. At their fear. At their uncertainty. At the fragile courage they found together.
+*No dialogue.*
 
-Infernal fire moved along the edge of his sword.
+**Panel 3**
+Then he looks back at the offered crown.
+*No dialogue.*
 
-Egris placed himself between them.
+---
 
-"You do not approach my people."
+### PAGE 41
+**Panels: 3**
 
-"Your people?" the man said. "You said they were not yours."
+**Panel 1**
+SATAN's voice softens.
+VOICE: "You fear becoming a tyrant."
 
-"They are under my protection."
+**Panel 2**
+EGRIS says nothing.
+*No dialogue.*
 
-The words left Egris before he could consider them.
+**Panel 3**
+VOICE: "Good. Fear is wisdom, when it is honest. But do not confuse hesitation with virtue."
 
-The camp fell quiet.
+---
 
-The woman in red looked at him.
+### PAGE 42
+**Panels: 2**
 
-So did the young soldier.
+**Panel 1**
+VOICE: "You cannot shelter them with a broken spear. You cannot defend them from Heaven with brave words."
 
-Even Seraphel's expression changed.
+**Panel 2**
+VOICE: "You cannot build a kingdom from the dead without making choices that cost someone something."
 
-The stranger gave a slow, mocking nod.
+---
 
-"Protection becomes command. Command becomes ownership. You know this. You have always known it."
+### PAGE 43
+**Panels: 2**
 
-Egris looked at the dead behind him.
+**Panel 1**
+The hand moves closer. The iron crown waits in its palm.
+VOICE: "Take it."
 
-At their fear.
+**Panel 2** *(wide — the young soldier steps forward)*
+His face has gone pale.
+SOLDIER: "Egris."
 
-At their uncertainty.
+---
 
-At the fragile courage they had found together.
+### PAGE 44
+**Panels: 3**
 
-Then he looked back at the offered crown.
+**Panel 1**
+EGRIS does not look back.
+EGRIS: "What?"
 
-Satan's voice softened.
+**Panel 2**
+The young soldier, terrified but asking anyway.
+SOLDIER: "If you take it...will we have to obey you?"
 
-"You fear becoming a tyrant."
+**Panel 3** *(wide, silent — the question stops everything)*
+The angels remain in the air. The demons wait beside the fissure. The stranger watches with hard, hungry eyes.
+*No dialogue.*
 
-Egris said nothing.
+---
 
-"Good. Fear is wisdom, when it is honest. But do not confuse hesitation with virtue. You cannot shelter them with a broken spear. You cannot defend them from Heaven with brave words. You cannot build a kingdom from the dead without making choices that cost someone something."
+### PAGE 45
+**Panels: 3**
 
-The hand moved closer.
+**Panel 1**
+EGRIS looks at the boy — no, not a boy. A soldier. Frightened and broken, but STANDING.
+*No dialogue.*
 
-The iron crown waited in its palm.
+**Panel 2**
+EGRIS has no answer ready. That frightens him more than Heaven's army.
+*No dialogue.*
 
-"Take it."
+**Panel 3**
+Finally, he says:
+EGRIS: "No."
 
-The young soldier stepped forward.
+---
 
-His face had gone pale.
+### PAGE 46
+**Panels: 4**
 
-"Egris," he said.
+**Panel 1**
+SATAN's fingers go STILL.
+*No dialogue.*
 
-Egris did not look back.
+**Panel 2**
+EGRIS continues.
+EGRIS: "You will not kneel to me. You will not worship me. You will not fight because I demand it."
 
-"What?"
+**Panel 3**
+The young soldier swallows.
+SOLDIER: "Then why should we stay?"
 
-"If you take it...will we have to obey you?"
+**Panel 4**
+EGRIS: "Because you choose to."
 
-The question stopped everything.
+---
 
-The angels remained in the air.
+### PAGE 47
+**Panels: 2**
 
-The demons waited beside the fissure.
+**Panel 1** *(wide, heavy silence)*
+The camp is silent.
+*No dialogue.*
 
-The stranger watched with hard, hungry eyes.
+**Panel 2**
+EGRIS turns to the darkness.
+EGRIS: "And I will not take a crown from someone who believes every soul can be bought."
 
-Egris looked at the boy—no, not a boy. A soldier. Frightened and broken, but standing.
+---
 
-Egris had no answer ready.
+### PAGE 48
+**Panels: 3**
 
-That frightened him more than Heaven's army.
+**Panel 1**
+The hand CLOSES around the iron crown.
+*No dialogue.*
 
-Finally, he said, "No."
+**Panel 2**
+For the first time, the warmth leaves Satan's voice.
+VOICE: "Be careful, Emperor."
 
-Satan's fingers went still.
+**Panel 3**
+EGRIS: "I am not an emperor."
 
-Egris continued.
+---
 
-"You will not kneel to me. You will not worship me. You will not fight because I demand it."
+### PAGE 49
+**Panels: 3**
 
-The young soldier swallowed.
+**Panel 1**
+VOICE: "Not yet."
 
-"Then why should we stay?"
+**Panel 2**
+The fissure SHAKES. The infernal soldiers raise their weapons. Seraphel lifts his sword in answer.
+SFX: `RMMMMBLE`
 
-"Because you choose to."
+**Panel 3**
+For one terrible moment, Egris believes Heaven and Hell will fall upon the camp together.
+*No dialogue.*
 
-The camp was silent.
+---
 
-Egris turned to the darkness.
+### PAGE 50
+**Panels: 2**
 
-"And I will not take a crown from someone who believes every soul can be bought."
+**Panel 1**
+Then SATAN LAUGHS.
+VOICE: "Another time."
 
-The hand closed around the iron crown.
+**Panel 2** *(wide — the darkness begins to withdraw)*
+The infernal soldiers step backward into the crack, one by one, never breaking formation.
+*No dialogue.*
 
-For the first time, the warmth left Satan's voice.
+---
 
-"Be careful, Emperor."
+### PAGE 51
+**Panels: 3**
 
-"I am not an emperor."
+**Panel 1**
+The STRANGER remains until the last of them has vanished. He looks at Egris with hatred that has survived death.
+STRANGER: "You always choose the harder path."
 
-"Not yet."
+**Panel 2**
+EGRIS: "No. I choose my own."
 
-The fissure shook.
+**Panel 3**
+The stranger's mouth tightens. Then he steps backward into the darkness.
+*No dialogue.*
 
-The infernal soldiers raised their weapons.
+---
 
-Seraphel lifted his sword in answer.
+### PAGE 52
+**Panels: 3**
 
-For one terrible moment, Egris believed Heaven and Hell would fall upon the camp together.
+**Panel 1**
+The fissure CLOSES. The red sand turns back to ash. The heat fades.
+SFX: `...ssshhh...`
 
-Then Satan laughed.
+**Panel 2**
+Above them, Heaven's host still hangs in the torn sky.
+*No dialogue.*
 
-"Another time."
+**Panel 3**
+SERAPHEL looks down at Egris.
+SERAPHEL: "You have refused both thrones."
 
-The darkness began to withdraw.
+---
 
-The infernal soldiers stepped backward into the crack, one by one, never breaking formation. The stranger in the dark robe remained until the last of them had vanished.
+### PAGE 53
+**Panels: 4**
 
-He looked at Egris with hatred that had survived death.
+**Panel 1**
+EGRIS: "They were never mine to accept."
 
-"You always choose the harder path," he said.
+**Panel 2**
+SERAPHEL: "You believe refusing power makes you different from those who seek it."
 
-"No," Egris replied. "I choose my own."
+**Panel 3**
+EGRIS: "No. I believe refusing to be owned does."
 
-The stranger's mouth tightened.
+**Panel 4**
+For a long moment, Seraphel says nothing.
+*No dialogue.*
 
-Then he stepped backward into the darkness.
+---
 
-The fissure closed.
+### PAGE 54
+**Panels: 3**
 
-The red sand turned back to ash.
+**Panel 1**
+Then the angel SHEATHES his sword.
+SFX: `shnk`
 
-The heat faded.
+**Panel 2**
+The white lines above the Wastes begin to CLOSE. The heavenly soldiers rise with them, carried upward into thinning light.
+*No dialogue.*
 
-Above them, Heaven's host still hung in the torn sky.
+**Panel 3**
+SERAPHEL: "You will be given no further warning."
 
-Seraphel looked down at Egris.
+---
 
-"You have refused both thrones."
+### PAGE 55
+**Panels: 3**
 
-"They were never mine to accept."
+**Panel 1**
+EGRIS: "I did not ask for one."
 
-"You believe refusing power makes you different from those who seek it."
+**Panel 2**
+The angel's gaze moves across the gathered souls. Then, unexpectedly, he looks at the young soldier with the split breastplate.
+SERAPHEL: "Choose carefully."
 
-"No," Egris said. "I believe refusing to be owned does."
+**Panel 3**
+The soldier meets his eyes. After a moment, he answers:
+SOLDIER: "I did."
 
-For a long moment, Seraphel said nothing.
+---
 
-Then the angel sheathed his sword.
+### PAGE 56
+**Panels: 3**
 
-The white lines above the Wastes began to close.
+**Panel 1**
+SERAPHEL's expression becomes unreadable.
+*No dialogue.*
 
-The heavenly soldiers rose with them, carried upward into the thinning light.
+**Panel 2**
+Then he vanishes into the light.
+SFX: `fwssh`
 
-"You will be given no further warning," Seraphel said.
+**Panel 3**
+The sky seals itself.
+*No dialogue.*
 
-"I did not ask for one."
+---
 
-The angel's gaze moved across the gathered souls.
+### PAGE 57
+**Panels: 2**
 
-Then, unexpectedly, he looked at the young soldier with the split breastplate.
+**Panel 1** *(wide — darkness returns to the Wastes)*
+Not the darkness of Hell. Not the darkness of death. Only the vast, waiting dark of a land that belongs to no one.
+*No dialogue.*
 
-"Choose carefully," Seraphel said.
+**Panel 2**
+For several breaths, no one moves.
+*No dialogue.*
 
-The soldier met his eyes.
+---
 
-After a moment, he answered, "I did."
+### PAGE 58
+**Panels: 3**
 
-Seraphel's expression became unreadable.
+**Panel 1**
+Then, from the edge of the camp, a NEW VOICE speaks. Calm. Male. Old enough to have learned patience.
+VOICE: "You refused Heaven and Hell in the same day."
 
-Then he vanished into the light.
+**Panel 2**
+EGRIS turns.
+*No dialogue.*
 
-The sky sealed itself.
+**Panel 3** *(wide — SURO sits atop a slab of fallen stone near the ruined road)*
+A man in a long coat of dark, weathered cloth, fastened high at the throat. A narrow sword rests across his knees — plain sheath, faded leather-wrapped handle. His eyes are covered by a strip of black cloth.
+Ash has gathered along his shoulders. He has been there long enough.
+No one noticed him.
+*No dialogue.*
 
-Darkness returned to the Wastes.
+---
 
-Not the darkness of Hell.
+### PAGE 59
+**Panels: 4**
 
-Not the darkness of death.
+**Panel 1**
+EGRIS studies the sword first. Then the blindfold.
+EGRIS: "You were watching."
 
-Only the vast, waiting dark of a land that belonged to no one.
+**Panel 2**
+SURO: "I was listening."
 
-For several breaths, no one moved.
+**Panel 3**
+EGRIS: "Why?"
 
-Then, from the edge of the camp, a new voice spoke.
+**Panel 4**
+SURO tilts his head toward the camp.
+SURO: "Because people become loud when gods arrive."
 
-"You refused Heaven and Hell in the same day."
+---
 
-It was calm. Male. Old enough to have learned patience.
+### PAGE 60
+**Panels: 3**
 
-Egris turned.
+**Panel 1**
+BORCHU lifts his broken weapon.
+BORCHU: "Who are you?"
 
-A man sat atop a slab of fallen stone near the ruined road. He wore a long coat of dark, weathered cloth, fastened high at the throat. A narrow sword rested across his knees. Its sheath was plain, its handle wrapped in faded leather.
+**Panel 2**
+The stranger's mouth twitches — not quite a smile.
+SURO: "A man who has followed kings before."
 
-His eyes were covered by a strip of black cloth.
+**Panel 3**
+EGRIS: "And?"
 
-He had been there long enough for ash to gather along his shoulders.
+---
 
-No one had noticed him.
+### PAGE 61
+**Panels: 3**
 
-Egris studied the sword first.
+**Panel 1**
+SURO: "And I have buried what they left behind."
 
-Then the blindfold.
+**Panel 2**
+He STANDS. His movements are careful but certain. He does not reach for the stone or test the ground. He seems to know exactly where he is.
+*No dialogue.*
 
-"You were watching," Egris said.
+**Panel 3**
+The blind swordsman turns his covered eyes toward Egris.
+SURO: "You refused an army. That was either wisdom or foolishness."
 
-"I was listening."
+---
 
-"Why?"
+### PAGE 62
+**Panels: 4**
 
-The man tilted his head toward the camp.
+**Panel 1**
+EGRIS: "Which?"
 
-"Because people become loud when gods arrive."
+**Panel 2**
+SURO: "I have not decided."
 
-Borchu lifted his broken weapon. "Who are you?"
+**Panel 3**
+EGRIS rests both hands on his spear.
+EGRIS: "And why should I care what you decide?"
 
-The stranger's mouth twitched—not quite a smile.
+**Panel 4**
+SURO's fingers settle on the hilt of his blade.
+SURO: "Because what comes next will be louder than gods."
 
-"A man who has followed kings before."
+---
 
-"And?" Egris asked.
+### PAGE 63
+**Panels: 1** *(FULL-PAGE SPLASH — closing image)*
 
-"And I have buried what they left behind."
+Pull back wide. The camp small against the vast Wastes. EGRIS and SURO facing one another across the cracked ground. BORCHU and the souls watching. The ruins dark behind them. The pale empty sky above.
 
-He stood.
+Somewhere in the darkness beyond, something ancient has heard Egris refuse both Heaven and Hell.
 
-His movements were careful but certain. He did not reach out for the stone or test the ground beneath his boots. He seemed to know exactly where he was.
+And it is waiting to see what he will become.
 
-The blind swordsman turned his covered eyes toward Egris.
+NARRATION (box, lower corner): *For the first time since the heavens had opened, Egris felt the old gaze watching from beyond the Wastes. Quiet. Patient. Ancient.*
 
-"You refused an army," he said. "That was either wisdom or foolishness."
+**— END OF CHAPTER 6 —**
 
-"Which?"
+---
 
-"I have not decided."
+## SCRIPT NOTES (for artist / letterer)
 
-Egris rested both hands on his spear.
-
-"And why should I care what you decide?"
-
-The swordsman's fingers settled on the hilt of his blade.
-
-"Because what comes next will be louder than gods."
-
-For the first time since the heavens had opened, Egris felt the old gaze watching from beyond the Wastes.
-
-Quiet.
-
-Patient.
-
-Ancient.
-
-Somewhere in the darkness, something had heard him refuse both Heaven and Hell.
-
-And it was waiting to see what he would become.
+- **Reading direction:** Right-to-left. Panel 1 sits at top-right of every page.
+- **This chapter balances three powers:** Heaven (still hovering above), Hell (arriving from below), and Egris (refusing both). Frame the visual composition to show him caught between two enormous forces — and choosing NEITHER.
+- **Page 26 splash (Satan's hand)** is body-horror. The too-many fingers and screaming-face rings must be clearly drawn and deeply unsettling.
+- **The Stranger's design:** scar from mouth to ear (always visible), dark robe, curved red-edged sword. He is NOT a demon — he is a dead man who made a deal. Draw him as human, bitter, and dangerous.
+- **The young soldier's question (Page 44)** is the chapter's emotional fulcrum. Give it a full beat of silence before Egris answers.
+- **Page 58 (Suro's reveal)** — he has been there the WHOLE TIME, unnoticed. Place him in a spot that makes sense retroactively (edge of camp, away from the main action, still, silent). Ash on his shoulders = he's been sitting there for hours.
+- **Suro's design:** long dark weathered coat, black blindfold, plain sword, lean build. His stillness is eerie — he doesn't test the ground, doesn't fumble. He KNOWS where everything is without seeing.
+- **Tone:** This chapter is exhausting for everyone — two refusals back-to-back, Egris's first true claim of "my people," and then a new unknown (Suro) arriving just as they thought it was over.

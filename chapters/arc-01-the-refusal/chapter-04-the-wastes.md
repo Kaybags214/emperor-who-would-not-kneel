@@ -1,325 +1,541 @@
-# Chapter 4 — The Wastes
+# THE EMPEROR WHO WOULD NOT KNEEL
+## Chapter 4 — "The Wastes"
 
-The Gray swallowed them within the hour.
-
-There was no horizon anymore. No gates behind them. No sky above — only a ceiling of low cloud the color of old bone, pressed flat against the land as if the air itself had grown tired of holding itself up.
-
-The ground beneath their feet had changed. The black stone of the border plain was gone, replaced by something that crunched like dry cartilage. It was not rock. It was not bone. It was something between — a substance that had once been meaningful and now was only residue.
-
-Arghun stopped walking and looked down.
-
-"What is this?"
-
-"The remains of someone's world," Egris said.
-
-The scribe paled. He pulled his satchel tighter and said nothing more.
-
-They walked.
-
-The Wastes were not empty. That was the first thing Egris noticed, and it unsettled him in a way he did not show. An empty land could be claimed. A dangerous land could be conquered. But a land that was full of things that had forgotten what they were — that was something his campaigns had never prepared him for.
-
-Shapes moved in the mist to either side.
-
-None came close.
-
-Most were little more than suggestion: a faint glow where eyes might have been, a low sound like breathing heard through a wall. They watched Egris and Arghun pass, and they did not follow.
-
-"The Hollow," Arghun whispered. "I told you."
-
-"These are not the Hollow you described."
-
-"No. These are the ones who still remember enough to be afraid."
-
-Egris filed that away.
-
-They walked for what could have been a day or an hour. Time moved strangely in the Gray. Shadows did not lengthen. The light did not change. There was only the steady pressure of walking through a place that did not want them there.
-
-Then they found the ruins.
-
-They appeared suddenly, as though the mist had pulled back a curtain. A cluster of collapsed buildings — stone and iron twisted together, their walls broken at angles that hurt to look at. Some had been homes. Others had been fortifications. A few were too large and too shattered to have been anything at all.
-
-At the center of the ruins, huddled against the base of a tilting tower, were souls.
-
-Dozens of them.
-
-They sat or lay in the ash, their bodies marked by the wounds that had killed them, their eyes dull with the particular exhaustion of people who had stopped expecting anything to change. A few tended to others who could not move. The rest simply waited.
-
-They did not see Egris at first.
-
-Then one of them looked up.
-
-A woman — broad-shouldered, her neck marked by a rope line that would never fade. She had been hanged in life. She stared at Egris the way a soldier stares at an enemy who has appeared on a hill above the camp.
-
-"Get back," she said. Her voice was a warning, not a plea.
-
-The other souls stirred. Hands went to weapons that were not there. Bodies shifted closer together.
-
-"We are not here to—" Arghun began.
-
-"Be quiet," Egris said.
-
-The scribe fell silent.
-
-Egris looked at the grouped souls. They were not soldiers. Not all of them. There were farmers with broken hands. A merchant whose chest bore the wound of a blade. Children — three of them — sitting behind a wall of grown bodies that protected them by presence alone.
-
-And there were warriors among them. Egris could see it in the way four of the souls stood: weight on the balls of their feet, eyes tracking motion before identifying it. They had fought in life. They were ready to fight here, even with nothing to fight with.
-
-"Who are you?" the hanged woman asked.
-
-"Someone walking through."
-
-"Walk faster."
-
-Egris almost smiled.
-
-Instead, he studied the ruins around them. The walls were broken in ways that suggested violence, not time. There were marks — long gouges in the stone as if something with claws had dragged itself across the surface.
-
-"Something hunts you," he said.
-
-The woman's face changed. Not to fear. To something deeper — the recognition of a truth that had been spoken aloud at last.
-
-"The Hollow Men," she said. "They come at the thick of the dark. They take one or two each time. We never see them clearly. Only the shape. Only the reaching."
-
-"How long?"
-
-"Long enough that we no longer count the ones they have taken."
-
-Egris looked at Arghun.
-
-The scribe was writing. His fingers had found a brush and a scrap of something pale enough to hold ink, and he was recording the exchange without being asked. It was instinct. It was what he was.
-
-Egris turned back to the ruins.
-
-"Where do they come from?"
-
-"The deep Gray. Beyond the ruins. We do not go there."
-
-"Show me."
-
-The woman stared at him.
-
-"You want to go toward them?"
-
-"I want to see what I am dealing with."
-
-"You are not dealing with anything. You are passing through."
-
-"I was," Egris said. "I am not anymore."
-
-He said it without drama. Without declaration. He said it the way a man says something he has only just realized about himself.
-
-The hanged woman looked at him for a long time.
-
-Then she pointed toward a gap between two collapsed structures — a narrow passage that led into thicker mist and darker ground.
-
-"There. But wait for the dark. They will come to us first. They always do."
+*Format: Traditional right-to-left manga script. Read panels right-to-left, top-to-bottom.
+Black-and-white. Heavy ink shadow, cinematic negative space, screentone.
+Approx. 24 pages.*
 
 ---
 
-The dark came like a held breath released.
-
-One moment the Gray was merely dim. The next, it was black — not the black of night, but the black of something closing around them. The mist thickened until Egris could not see his own hand unless he held it close to his face.
-
-The souls in the ruins pressed together.
-
-The warriors among them took position at the gaps in the walls, holding sharpened stones and broken metal — anything with an edge.
-
-Arghun stood beside Egris, his satchel clutched to his chest.
-
-"Tell me you have a plan," the scribe whispered.
-
-"I have observation."
-
-"That is not a plan."
-
-"It is the beginning of one."
-
-Then they heard it.
-
-A sound like wet cloth dragged over stone. It came from everywhere at once — or from nowhere that could be pointed to. It was not loud. It was the kind of sound that slipped below hearing and rose only after it had been going on for some time.
-
-The Hollow Men emerged from the dark between the ruins.
-
-They were not men.
-
-They had the shape of men — roughly. Two arms. Two legs. A head that might have held a face once. But their outlines shimmered and blurred, as if someone had drawn a person in ash and then wiped at the drawing before it dried. They moved without sound. Their feet — if they had feet — touched the ground and left no mark.
-
-Their eyes, if they had eyes, were the only solid things about them: dull points of gray light, flat as coins.
-
-There were seven of them.
-
-They came through the gaps in the wall without rushing, without hesitation. They moved like something that had done this many times and never once been stopped.
-
-The warriors in the ruins raised their weapons.
-
-One of the Hollow Men reached for the nearest soul — an old man sitting against the wall — and touched him.
-
-The old man went still.
-
-Then he began to fade.
-
-Not his body. His presence. The definition of him softened. His features blurred. He opened his mouth to scream and no sound came out. Whatever had made him distinct — his memories, his name, the shape of the life he had lived — drained from him like water from a broken cup.
-
-In seconds, he was one of them.
-
-A new Hollow Man, rising from where the old man had sat, its outline already beginning to shimmer.
-
-The warriors attacked.
-
-Their crude weapons passed through the Hollow Men as if through smoke. There was nothing solid to strike. The shapes could not be cut. They could not be held. They could only reach, and touch, and erase.
-
-Another soul was taken.
-
-Then another.
-
-The camp was breaking.
-
-Egris watched.
-
-He watched the way the Hollow Men moved. He watched the path they preferred — always the edges, always the weakest point in the formation. He watched the way they recoiled, barely, when one of the warriors swung a piece of iron through the space where their chest should have been.
-
-They recoiled.
-
-They were not solid. But they existed in space. They occupied it. And something about fast motion through the space they occupied disturbed them.
-
-"You cannot fight them," the hanged woman said behind him. She was gripping a piece of broken wall, her knuckles white. "No one can."
-
-"Everything can be fought," Egris said. "You just have not found how."
-
-He picked up a length of collapsed beam — heavy dark wood, splintered at one end, solid and straight enough to swing.
-
-Then he walked toward the Hollow Men.
-
-Arghun called after him.
-
-Egris did not stop.
-
-He moved not toward the center of the group but toward the flank — the place where the next Hollow Man was about to reach for a child hiding behind a broken wall.
-
-He swung the beam through the space where the creature existed.
-
-It passed through.
-
-But the Hollow Man flinched.
-
-It turned those flat gray eyes toward Egris.
-
-For a moment, nothing moved.
-
-Then Egris understood.
-
-They fed on stillness. On passivity. On the resignation of souls who had already accepted that they would be taken. The Hollow Men were not predators in the way wolves were. They were more like rot — they needed stillness to spread.
-
-What disturbed them was not violence.
-
-It was will.
-
-Egris dropped the beam.
-
-He stepped forward until he stood between the Hollow Men and the souls behind him.
-
-"You want memory," he said aloud. "You want identity. You want what these people still have."
-
-The Hollow Men watched him.
-
-"You cannot take it from me. I will not let you. And while I stand here, you will have to go through me to reach them."
-
-The largest of the Hollow Men — a shape that might once have been a woman — moved toward him.
-
-Egris did not step back.
-
-It reached for him.
-
-Its hand touched his chest.
-
-He felt it.
-
-A cold pulling — not at his body, but at something behind it. Something deep. The first battle he ever won. The name of his first horse. The color of his wife's eyes.
-
-The Gray was trying to take them.
-
-Egris held.
-
-Not because he was stronger than the others. But because he had spent his entire life refusing to let anything take what was his. The instinct was older than memory. It was bone-deep. It was the thing that had made him an emperor in the first place.
-
-The Hollow Man recoiled.
-
-Its shape wavered more violently. Its gray eyes flickered.
-
-Then it turned away.
-
-All of them turned away.
-
-They moved back into the gaps between the ruins, dissolving into the dark like ink into water. The wet-dragging sound faded. The blackness thinned by degrees.
-
-The Hollow Men were gone.
-
-Egris stood in the silence that followed.
-
-His chest ached where the thing had touched him. Not a physical ache. Something had been pulled. A memory had been tested — gripped and nearly torn — and had held only because he had refused to let go.
-
-But it had been close.
-
-He looked down at his hand. It was shaking.
-
-He curled it into a fist and the shaking stopped.
+### PAGE 1
+**Panels: 3** *(silent page)*
+
+**Panel 1** *(wide, full-width top)*
+The Gray has swallowed them. No horizon. No gates behind. Only a ceiling of low bone-colored cloud pressed flat against the land. EGRIS and ARGHUN are small figures walking through featureless mist.
+*No dialogue.*
+
+**Panel 2** *(narrow, ground-level detail)*
+Close on their boots crunching across something that isn't stone, isn't bone — something between. The texture is wrong.
+SFX: `krnch... krnch...`
+
+**Panel 3** *(wide, bottom)*
+ARGHUN stops walking and looks down at the ground beneath his feet, horrified.
+*No dialogue.*
 
 ---
 
-The souls in the ruins stared at him.
+### PAGE 2
+**Panels: 3**
 
-They were not grateful.
+**Panel 1**
+ARGHUN, pale, voice tight.
+ARGHUN: "What is this?"
 
-This was what the arc overview had promised, and Egris felt it now — the particular weight of being known. These people recognized him. Not his face. Not his stance. His name. The name that had traveled across continents before he had died, carried on the screams of the people he had conquered.
+**Panel 2**
+EGRIS, not stopping, not looking down.
+EGRIS: "The remains of someone's world."
 
-The hanged woman stepped forward.
+**Panel 3** *(wide — Arghun clutches his satchel tighter and says nothing more)*
+The two men continue walking, the mist closing in around them.
+NARRATION (box): *They walked.*
 
-"You saved us," she said.
+---
 
-"I stood between you and something that wanted to feed on you."
+### PAGE 3
+**Panels: 4**
 
-"Is that not the same thing?"
+**Panel 1** *(large)*
+Shapes move in the mist to either side — barely visible, just suggestions. A faint glow where eyes might be. The hint of a figure watching.
+SFX (faint, layered): `...ssshhh...`
 
-"Not if you fear the man who stands in front of you more than the thing behind him."
+**Panel 2**
+Close on EGRIS's eyes — alert, tracking motion without turning his head.
+*No dialogue.*
 
-Silence.
+**Panel 3**
+ARGHUN whispers, terrified.
+ARGHUN: "The Hollow. I told you."
 
-The warriors looked at one another. The farmers lowered their eyes. The children pressed closer to the adults around them.
+**Panel 4**
+EGRIS, calm.
+EGRIS: "These are not the Hollow you described."
 
-No one thanked him.
+---
 
-No one cursed him either.
+### PAGE 4
+**Panels: 3**
 
-They simply watched him with the wariness of people who had been saved by a monster and did not yet know whether the monster expected payment.
+**Panel 1**
+ARGHUN glances at the watching shapes in the mist.
+ARGHUN: "No. These are the ones who still remember enough to be afraid."
 
-Egris understood.
+**Panel 2** *(narrow, silent — Egris files that away)*
+Close on Egris's face. A flicker of thought.
+*No dialogue.*
 
-He had been this before — the force that entered a valley and changed everything, whether the people in the valley wanted it or not. The difference was that in life, he had not cared what they thought of him.
+**Panel 3** *(wide, atmospheric)*
+The two men walking. The watching shapes recede, never coming close. Time moves strangely — no change in light, no lengthening shadows.
+NARRATION (box): *They walked for what could have been a day or an hour. Time moved strangely in the Gray.*
 
-Now, standing in the Gray, watching the fear in the eyes of the dead, he found that he did.
+---
 
-It was a small, uncomfortable feeling.
+### PAGE 5
+**Panels: 1** *(FULL-PAGE SPLASH — page-turn reveal)*
 
-He was not used to it.
+The RUINS appear suddenly, as though the mist pulled back a curtain. Collapsed buildings — stone and iron twisted at angles that hurt to look at. Some had been homes. Others fortifications. A few too large and shattered to identify.
 
-He turned to Arghun.
+At the center, huddled against the base of a tilting tower: SOULS. Dozens of them, sitting or lying in the ash, bodies marked by the wounds that killed them, eyes dull with exhaustion.
 
-"Write this down."
+*No dialogue.*
 
-"What part?"
+---
 
-"All of it. The Hollow. The ruins. The way they move and the way they break. Everything you saw."
+### PAGE 6
+**Panels: 4**
 
-Arghun looked at him.
+**Panel 1**
+The souls don't see Egris and Arghun at first. Some tend to others. Most simply wait.
+*No dialogue.*
 
-"Will you stay?" the scribe asked.
+**Panel 2**
+Then one of them looks up — a WOMAN, broad-shouldered, a rope-line scar around her neck. She was hanged. She stares at Egris like a soldier seeing an enemy on the hill.
+*No dialogue.*
 
-Egris looked at the ruins. At the souls within them. At the dark beyond the walls where the Hollow Men had gone.
+**Panel 3**
+The WOMAN's voice cuts across the camp.
+WOMAN: "Get back."
 
-"For now," he said.
+**Panel 4** *(wide — the camp stirs)*
+The other souls react. Hands go to phantom weapons. Bodies shift closer together. Children (three of them) press behind a wall of grown bodies.
+*No dialogue.*
 
-It was not a promise.
+---
 
-It was not a command.
+### PAGE 7
+**Panels: 3**
 
-It was something he offered because he chose to — and that, in the Wastes, was enough to begin.
+**Panel 1**
+ARGHUN starts to speak.
+ARGHUN: "We are not here to—"
+
+**Panel 2**
+EGRIS cuts him off, flat and immediate.
+EGRIS: "Be quiet."
+
+**Panel 3**
+ARGHUN falls silent. The scribe knows when to obey.
+*No dialogue.*
+
+---
+
+### PAGE 8
+**Panels: 3**
+
+**Panel 1** *(large)*
+EGRIS studies the grouped souls. Not soldiers — not all of them. Farmers with broken hands. A merchant with a blade-wound. Warriors stand ready among them, weight on the balls of their feet.
+*No dialogue.*
+
+**Panel 2**
+The HANGED WOMAN speaks again, voice hard.
+WOMAN: "Who are you?"
+
+**Panel 3**
+EGRIS, simple.
+EGRIS: "Someone walking through."
+
+---
+
+### PAGE 9
+**Panels: 4**
+
+**Panel 1**
+The WOMAN, cold.
+WOMAN: "Walk faster."
+
+**Panel 2**
+EGRIS almost smiles — a flicker, gone before it fully forms.
+*No dialogue.*
+
+**Panel 3** *(wide)*
+Instead he studies the ruins. The walls are broken violently, not by time. Long gouges in the stone, as if clawed.
+*No dialogue.*
+
+**Panel 4**
+EGRIS: "Something hunts you."
+
+---
+
+### PAGE 10
+**Panels: 3**
+
+**Panel 1** *(large)*
+The WOMAN's face changes — not to fear, but to something deeper. The recognition of a truth spoken aloud at last.
+WOMAN: "The Hollow Men."
+
+**Panel 2**
+WOMAN: "They come at the thick of the dark. They take one or two each time. We never see them clearly. Only the shape. Only the reaching."
+
+**Panel 3**
+EGRIS: "How long?"
+
+---
+
+### PAGE 11
+**Panels: 4**
+
+**Panel 1**
+The WOMAN, exhausted.
+WOMAN: "Long enough that we no longer count the ones they have taken."
+
+**Panel 2**
+EGRIS looks at ARGHUN. The scribe has already found a brush and a scrap of pale material. He is WRITING — instinct, without being asked.
+*No dialogue.*
+
+**Panel 3**
+EGRIS turns back to the ruins.
+EGRIS: "Where do they come from?"
+
+**Panel 4**
+The WOMAN points toward a gap between collapsed structures — deeper mist, darker ground.
+WOMAN: "The deep Gray. Beyond the ruins. We do not go there."
+
+---
+
+### PAGE 12
+**Panels: 3**
+
+**Panel 1**
+EGRIS: "Show me."
+
+**Panel 2**
+The WOMAN stares at him.
+WOMAN: "You want to go *toward* them?"
+
+**Panel 3** *(large)*
+EGRIS: "I want to see what I am dealing with."
+
+---
+
+### PAGE 13
+**Panels: 4**
+
+**Panel 1**
+WOMAN: "You are not dealing with anything. You are passing through."
+
+**Panel 2**
+EGRIS, calm, certain — a man realizing something about himself.
+EGRIS: "I was. I am not anymore."
+
+**Panel 3** *(narrow, silent — the woman studies him)*
+*No dialogue.*
+
+**Panel 4**
+The WOMAN points again toward the gap.
+WOMAN: "There. But wait for the dark. They will come to us first. They always do."
+
+---
+
+### PAGE 14
+**Panels: 2**
+
+**Panel 1** *(large, top — atmospheric shift)*
+The dark comes like a held breath released. The dim Gray becomes BLACK — not night, but something closing around them. Mist thickens until nothing is visible beyond arm's reach.
+SFX: `fwooooo`
+
+**Panel 2** *(wide, bottom — the camp huddled)*
+The souls press together. Warriors take position at wall-gaps, gripping sharpened stones and broken metal. ARGHUN stands beside EGRIS, clutching his satchel.
+*No dialogue.*
+
+---
+
+### PAGE 15
+**Panels: 3**
+
+**Panel 1**
+ARGHUN whispers.
+ARGHUN: "Tell me you have a plan."
+
+**Panel 2**
+EGRIS, calm.
+EGRIS: "I have observation."
+
+**Panel 3**
+ARGHUN, dry despair.
+ARGHUN: "That is not a plan."
+EGRIS: "It is the beginning of one."
+
+---
+
+### PAGE 16
+**Panels: 3**
+
+**Panel 1** *(wide, oppressive silence)*
+*No dialogue.*
+SFX (rising, wet): `...ssssssh...`
+
+**Panel 2**
+Close on EGRIS's ear — he hears it. A sound like wet cloth dragged over stone. Everywhere and nowhere.
+SFX: `sshhhhhh`
+
+**Panel 3** *(narrow, tense)*
+*No dialogue.*
+The sound continues, slipping below hearing, then rising.
+
+---
+
+### PAGE 17
+**Panels: 1** *(FULL-PAGE SPLASH — the Hollow Men emerge)*
+
+They come from the dark between the ruins. NOT men — only the shape of men. Two arms, two legs, a head. But their outlines shimmer and blur, as if drawn in ash and smeared before drying. They move soundlessly. Their eyes: dull gray light, flat as coins.
+
+Seven of them.
+
+SFX: *(total silence except the wet-dragging sound)*
+
+**— END OF PAGE (page-turn tension) —**
+
+---
+
+### PAGE 18
+**Panels: 4**
+
+**Panel 1**
+The HOLLOW MEN move through gaps in the wall without rushing. They have done this many times.
+*No dialogue.*
+
+**Panel 2**
+The warriors in the ruins raise their weapons — broken metal, sharpened stone.
+*No dialogue.*
+
+**Panel 3** *(large, horror beat)*
+One HOLLOW MAN reaches for an OLD MAN sitting against the wall. It touches him.
+*No dialogue.*
+
+**Panel 4**
+The old man goes STILL. His features begin to blur, soften. His mouth opens to scream — no sound comes.
+SFX: *(silence)*
+
+---
+
+### PAGE 19
+**Panels: 3**
+
+**Panel 1** *(large)*
+The old man FADES. His presence drains like water from a broken cup. In seconds, he is one of them — a new Hollow Man rising where he sat, outline already shimmering.
+*No dialogue.*
+
+**Panel 2**
+The warriors ATTACK. Their weapons pass through the Hollow Men like smoke. Nothing solid to strike.
+SFX: `swsh— swsh—`
+
+**Panel 3** *(wide, panic spreading)*
+Another soul is taken. Then another. The camp is breaking.
+*No dialogue.*
+
+---
+
+### PAGE 20
+**Panels: 4**
+
+**Panel 1**
+EGRIS watches. Studying the way they move — always the edges, always the weakest point.
+*No dialogue.*
+
+**Panel 2**
+A warrior swings iron through a Hollow Man's chest. The creature RECOILS — barely, but it recoils.
+*No dialogue.*
+
+**Panel 3**
+Close on EGRIS's eyes. He saw it. They can be disturbed.
+*No dialogue.*
+
+**Panel 4**
+The HANGED WOMAN behind him, gripping a broken wall.
+WOMAN: "You cannot fight them. No one can."
+
+---
+
+### PAGE 21
+**Panels: 3**
+
+**Panel 1**
+EGRIS picks up a length of collapsed beam — heavy dark wood, splintered at one end.
+EGRIS: "Everything can be fought. You just have not found how."
+
+**Panel 2** *(wide)*
+He walks toward the Hollow Men. ARGHUN calls after him. Egris does not stop.
+ARGHUN *(off-panel)*: "Egris—!"
+
+**Panel 3**
+EGRIS swings the beam through the space where a Hollow Man exists. It passes through — but the creature FLINCHES.
+SFX: `SWSH`
+
+---
+
+### PAGE 22
+**Panels: 3**
+
+**Panel 1**
+The HOLLOW MAN turns its flat gray eyes toward Egris. For a moment, nothing moves.
+*No dialogue.*
+
+**Panel 2**
+EGRIS understands. They feed on stillness. On resignation. What disturbs them is not violence — it is WILL.
+NARRATION (box): *They fed on stillness. On souls who had already accepted they would be taken.*
+
+**Panel 3**
+EGRIS drops the beam. He steps forward until he stands between the Hollow Men and the souls.
+SFX: `thud` *(beam hitting ground)*
+
+---
+
+### PAGE 23
+**Panels: 3**
+
+**Panel 1** *(large)*
+EGRIS speaks aloud, facing the Hollow Men.
+EGRIS: "You want memory. You want identity. You want what these people still have."
+
+**Panel 2**
+The Hollow Men watch him.
+EGRIS: "You cannot take it from me. I will not let you."
+
+**Panel 3** *(wide, bottom)*
+EGRIS: "And while I stand here, you will have to go through me to reach them."
+
+---
+
+### PAGE 24
+**Panels: 1** *(FULL-PAGE SPLASH — the confrontation)*
+
+The largest HOLLOW MAN — a shape that might once have been a woman — moves toward Egris. He does NOT step back. It reaches. Its hand touches his chest.
+
+EGRIS feels it — a cold pulling at something deep. The first battle he ever won. The name of his first horse. The color of his wife's eyes. The Gray trying to take them.
+
+But EGRIS HOLDS. Jaw set, eyes burning, fist clenched. The refusal is bone-deep.
+
+The Hollow Man RECOILS. Its shape wavers violently. Its gray eyes flicker.
+
+Then it turns away.
+
+*No dialogue this page — silent power struggle, visual only.*
+
+---
+
+### PAGE 25
+**Panels: 3**
+
+**Panel 1**
+All the Hollow Men turn away. They move back into the gaps between ruins, dissolving into dark like ink into water.
+SFX (fading): `...ssshhh...`
+
+**Panel 2**
+The wet-dragging sound fades. The blackness thins by degrees.
+*No dialogue.*
+
+**Panel 3** *(wide — the Hollow Men are gone)*
+EGRIS stands in the silence that follows. His chest aches where the thing touched him — not physical. Something had been pulled, tested, nearly torn. It held only because he refused to let go.
+*No dialogue.*
+
+---
+
+### PAGE 26
+**Panels: 3**
+
+**Panel 1**
+Close on EGRIS's hand. It is shaking.
+*No dialogue.*
+
+**Panel 2**
+He curls it into a fist. The shaking stops.
+SFX: `clench`
+
+**Panel 3** *(wide)*
+The souls in the ruins stare at him. Not grateful. Wary. They recognize him now — not his face, but his NAME.
+*No dialogue.*
+
+---
+
+### PAGE 27
+**Panels: 4**
+
+**Panel 1**
+The HANGED WOMAN steps forward.
+WOMAN: "You saved us."
+
+**Panel 2**
+EGRIS, flat.
+EGRIS: "I stood between you and something that wanted to feed on you."
+
+**Panel 3**
+WOMAN: "Is that not the same thing?"
+
+**Panel 4** *(tight on Egris)*
+EGRIS: "Not if you fear the man who stands in front of you more than the thing behind him."
+
+---
+
+### PAGE 28
+**Panels: 3**
+
+**Panel 1** *(wide, heavy silence)*
+The warriors look at one another. The farmers lower their eyes. The children press closer to the adults. No one thanks him. No one curses him either.
+*No dialogue.*
+
+**Panel 2**
+NARRATION (box): *They simply watched him with the wariness of people who had been saved by a monster and did not yet know whether the monster expected payment.*
+
+**Panel 3**
+Close on EGRIS's face — a small, uncomfortable feeling. He is not used to caring what they think of him.
+*No dialogue.*
+
+---
+
+### PAGE 29
+**Panels: 3**
+
+**Panel 1**
+EGRIS turns to ARGHUN.
+EGRIS: "Write this down."
+
+**Panel 2**
+ARGHUN, still clutching his brush.
+ARGHUN: "What part?"
+
+**Panel 3**
+EGRIS: "All of it. The Hollow. The ruins. The way they move and the way they break. Everything you saw."
+
+---
+
+### PAGE 30
+**Panels: 2**
+
+**Panel 1**
+ARGHUN looks at him.
+ARGHUN: "Will you stay?"
+
+**Panel 2** *(wide, bottom — Egris looks at the ruins, at the souls, at the dark beyond)*
+EGRIS: "For now."
+
+---
+
+### PAGE 31
+**Panels: 1** *(FULL-PAGE SPLASH — closing image)*
+
+Wide shot of the ruins at rest. The souls settling back into the camp. EGRIS standing at the edge, looking out at the dark where the Hollow Men vanished. ARGHUN beside him, writing by faint light. The three children watching from behind the woman in red.
+
+NARRATION (box, lower corner): *It was not a promise. It was not a command. It was something he offered because he chose to — and that, in the Wastes, was enough to begin.*
+
+**— END OF CHAPTER 4 —**
+
+---
+
+## SCRIPT NOTES (for artist / letterer)
+
+- **Reading direction:** Right-to-left. Panel 1 sits at top-right of every page.
+- **This is a horror/action chapter.** The Hollow Men must feel genuinely threatening — use visual language of body-horror (smeared outlines, wrong proportions, empty eyes).
+- **Page 17 splash (Hollow Men emerge)** is the centerpiece scare. Keep Page 16 quiet and dark so the reveal lands hard.
+- **Page 24 splash (Egris vs. the Hollow)** is the emotional climax — this is NOT a physical fight. It's a battle of will. Show it through Egris's clenched fist, set jaw, refusal in his eyes. The Hollow Man recoiling should feel like it hit a wall it didn't know existed.
+- **The souls' reaction (Pages 26–28)** — they are NOT grateful. They are AFRAID of him. Draw that clearly: averted eyes, protective huddles, wariness. This is the weight Egris will carry.
+- **Arghun's role:** he is always writing when something important happens. It's instinct. Show his ink-stained fingers moving even during tense moments.
+- **Tone:** This chapter shifts Egris from "walking through" to "staying." Mark that visually — by the end, he is positioned protectively at the edge of the camp, no longer a passerby.
