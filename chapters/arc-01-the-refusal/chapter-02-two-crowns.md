@@ -1,41 +1,203 @@
-# Chapter 2 — Two Crowns
+# THE EMPEROR WHO WOULD NOT KNEEL
+## Chapter 2 — "Two Crowns"
 
-The two figures stepped into the light that pooled between the gates.
+*Format: Traditional right-to-left manga script. Read panels right-to-left, top-to-bottom.
+Black-and-white. Heavy ink shadow, cinematic negative space, screentone.
+Approx. 20 pages.*
 
-They did not walk so much as overwrite the space they occupied. The being from the white gate moved with the slow, inevitable grace of a rising sun. Its presence smelled of ozone and ancient cedar. The being from the black gate moved like a shadow cast by fire, jagged and restless, smelling of dry earth and old iron.
+---
 
-"You have spilled rivers of blood," the white figure said, its voice resonant and crystalline. "You have bound a hundred nations under a single law. You brought order to the chaos of the steppes. For this, there is a place for you. An eternal empire where the sword is finally sheathed. You shall sit at the right hand of the Throne, an architect of peace that never ends."
+### PAGE 1
+**Panels: 3**
 
-It held out a crown of white gold, simple and heavy. It did not shine; it glowed from within, a promise of rest for a soul that had never known a day of it.
+**Panel 1** *(wide, full-width top — continuing directly from Ch.1)*
+The two colossal figures step into the pooled light between the gates. They do not so much walk as OVERWRITE the space they occupy. The WHITE POWER: slow, inevitable, like a rising sun. The DARK POWER: jagged, restless, a shadow thrown by fire.
+*No dialogue.*
 
-The dark figure laughed, a sound like grinding stones. "Peace? He did not win his name through peace. He won it through fire. Egris, look at what I offer. A horizon that never ends. Armies of bone and shadow that will never tire, horses that never stumble, and worlds beyond this one that have never heard your name—until you scream it into their skies. Conquest without limit. Victory without death."
+**Panel 2** *(narrow, detail — the white power)*
+Close on the white figure's advancing form — smooth, luminous linework, faint suggestions of cedar branches and clean light dissolving at its edges.
+SFX (soft): `hummm`
 
-It held out a crown of blackened iron, jagged with spikes that looked like frozen lightning. It pulsed with a dull red heat, a promise of power for a hand that had always reached for more.
+**Panel 3** *(narrow, detail — the dark power)*
+Close on the dark figure — broken angular hatching, heat-shimmer, the smell of dry earth and old iron implied in the ragged ink.
+SFX (low crackle): `ksss`
 
-The kneeling thousands watched, their breath a collective shiver. They saw the two greatest powers in existence offering their highest honors to a man in a gray robe.
+---
 
-Egris looked at the white crown. He saw the "perfect order" the figure promised. He saw a world where no one moved unless they were told, where every thought was a prayer, and where the "peace" was merely the silence of a cage.
+### PAGE 2
+**Panels: 3**
 
-He looked at the black crown. He saw the "limitless conquest." He saw a war that had no purpose other than its own continuation, a cycle of slaughter that led nowhere, serving a master who grew fat on the rage of others.
+**Panel 1** *(large)*
+The WHITE POWER addresses Egris, its voice lettered clean and crystalline.
+WHITE POWER: "You have spilled rivers of blood. You bound a hundred nations under a single law."
+WHITE POWER: "You brought order to the chaos of the steppes."
 
-"Order," Egris said. It was the first word he had spoken since death. His voice was raspy, like wind over sand, but it carried to the edges of the plain.
+**Panel 2**
+Egris, unreadable, listening. The white light washing across his weathered face.
+WHITE POWER *(off-panel)*: "For this, there is a place for you. An eternal empire where the sword is finally sheathed."
 
-The white figure tilted its head. "Yes."
+**Panel 3** *(tight)*
+WHITE POWER *(off-panel)*: "You shall sit at the right hand of the Throne. An architect of a peace that never ends."
 
-"And War," Egris said, looking at the dark figure.
+---
 
-The dark figure grinned. "Eternal."
+### PAGE 3
+**Panels: 2**
 
-Egris reached out. He did not take either crown. Instead, he gripped both figures by the wrists.
+**Panel 1** *(large, top)*
+The WHITE POWER extends a CROWN of white gold — simple, heavy, unadorned. It does not shine; it glows from within.
+WHITE POWER: "Rest, Egris. You have never known a single day of it."
 
-The air between the gates fractured. Thunder rolled across the black stone, and the gold and red lights flickered as if caught in a gale. The two beings froze. They were not accustomed to being touched, let alone held.
+**Panel 2** *(large, bottom — Egris's POV of the crown)*
+Close on the white crown offered in a luminous hand. Egris's shadow falls across it.
+NARRATION (box): *A promise of rest, for a soul that had never rested.*
 
-"You speak of laws and you speak of spoils," Egris said, his grip tightening. He felt the cold divinity of the light and the scorching hunger of the dark. Neither felt like life. "You offer me the choice between being a golden slave or a black hound. You think because I have died, I have forgotten how to recognize a shackle."
+---
 
-He shoved their hands away. The crowns clattered onto the stone.
+### PAGE 4
+**Panels: 3**
 
-"I have conquered living men," Egris said. He stepped over the crowns, walking toward the center of the gap between the two gates—the path that led straight into the gray, jagged horizon of the Wastes. "I will not be conquered by dead gods."
+**Panel 1** *(large)*
+The DARK POWER laughs — a grinding-stone sound — and cuts across the offer.
+SFX: `GRND-HAHAHA`
+DARK POWER: "Peace? He did not win his name through peace."
+DARK POWER: "He won it through fire."
 
-He did not look back. He walked into the wind, his gray robe snapping behind him.
+**Panel 2**
+The dark figure leans toward Egris, grin widening, coal-eyes bright.
+DARK POWER: "Look at what I offer. A horizon that never ends. Armies of bone and shadow that never tire. Horses that never stumble."
 
-Behind him, for the first time in an eternity, the two gates began to close.
+**Panel 3** *(tight, intense)*
+DARK POWER: "Worlds beyond this one that have never heard your name — until you scream it into their skies."
+DARK POWER: "Conquest without limit. Victory without death."
+
+---
+
+### PAGE 5
+**Panels: 2**
+
+**Panel 1** *(large, top)*
+The DARK POWER extends a CROWN of blackened iron — jagged, spiked like frozen lightning, pulsing a dull red heat.
+DARK POWER: "For a hand that has always reached for more."
+
+**Panel 2** *(large, bottom)*
+The two crowns now held out from opposite sides of the panel — white-gold left, black-iron right — Egris small and central between them.
+*No dialogue.*
+
+---
+
+### PAGE 6
+**Panels: 3** *(silent reaction page — no spoken dialogue)*
+
+**Panel 1** *(wide)*
+The kneeling thousands watch, breath held as one collective shiver. The two greatest powers in existence, offering their highest honors to a man in a plain gray robe.
+*No dialogue.*
+
+**Panel 2** *(tight on Egris looking LEFT at the white crown)*
+Egris studies the white crown. Behind his eyes, a faint vision bleeds into the panel: rows of figures standing perfectly still, heads bowed, none moving unless told. Order as silence. Silence as a cage.
+NARRATION (box): *A world where no one moved unless commanded. Where every thought was a prayer.*
+
+**Panel 3** *(tight on Egris looking RIGHT at the black crown)*
+Egris studies the black crown. A second faint vision: endless slaughter with no horizon, a cycle feeding a master who grows fat on the rage of others.
+NARRATION (box): *A war with no purpose but its own continuation.*
+
+---
+
+### PAGE 7
+**Panels: 4**
+
+**Panel 1** *(tight on Egris's mouth — the first word he has spoken since death)*
+His voice is raspy, like wind over sand — but it carries to the edges of the plain.
+EGRIS: "Order."
+
+**Panel 2**
+The WHITE POWER tilts its head, pleased.
+WHITE POWER: "Yes."
+
+**Panel 3**
+EGRIS turns his eyes to the dark figure.
+EGRIS: "And war."
+
+**Panel 4**
+The DARK POWER grins.
+DARK POWER: "Eternal."
+
+---
+
+### PAGE 8
+**Panels: 2**
+
+**Panel 1** *(large, top — the beat before)*
+Egris reaches out with BOTH hands. The powers pause, expecting him to take a crown.
+*No dialogue.*
+
+**Panel 2** *(large, bottom — page-turn setup)*
+He does NOT take either crown. Instead his weathered hands close around the WRISTS of both figures — gripping the cold white light and the scorching dark at once.
+SFX: `GRIP`
+*No dialogue.*
+
+---
+
+### PAGE 9
+**Panels: 1** *(FULL-PAGE SPLASH — page-turn reveal)*
+
+The air between the gates FRACTURES. Cracks split the empty height. Thunder rolls across the black stone. The gold and red light flicker as if caught in a gale. Both colossal beings are FROZEN — held, for the first time in an eternity, by a mortal's grip. Their shock is enormous and silent. Egris stands at the center, arms outstretched to both, jaw set, utterly unmoved.
+SFX (huge, cracking): `KRA-KOOM`
+*No dialogue.*
+
+---
+
+### PAGE 10
+**Panels: 3**
+
+**Panel 1** *(large)*
+Egris speaks, low and hard, his grip tightening on both divine wrists.
+EGRIS: "You speak of laws. You speak of spoils."
+EGRIS: "You offer me the choice between being a golden slave or a black hound."
+
+**Panel 2** *(tight two-power reaction — both leaning back from him)*
+EGRIS *(off-panel)*: "You think because I have died, I have forgotten how to recognize a shackle."
+
+**Panel 3** *(wide)*
+He SHOVES both hands away. The two crowns tumble and clatter onto the black stone.
+SFX: `KLANG-klang`
+
+---
+
+### PAGE 11
+**Panels: 3**
+
+**Panel 1** *(large)*
+EGRIS steps OVER the fallen crowns, walking toward the gap between the gates — the narrow path leading straight into the gray, jagged horizon of the Wastes beyond.
+EGRIS: "I have conquered living men."
+
+**Panel 2** *(tight, over his shoulder — he does not look back)*
+EGRIS: "I will not be conquered by dead gods."
+
+**Panel 3** *(wide, low)*
+He walks into the wind, plain gray robe snapping behind him. The two towering powers remain where he left them, crowns abandoned on the stone between them.
+SFX (wind returning): `hyooooo`
+
+---
+
+### PAGE 12
+**Panels: 1** *(near-splash — the closing image)*
+
+From behind: Egris, a small solitary figure, walking away down the center path toward the pale, cracked, empty Wastes on the horizon. Behind and above him, for the first time in an eternity, the TWO ENORMOUS GATES have begun to CLOSE — white and black edges swinging shut on either side, framing his departing back. He does not turn.
+SFX (deep, final): `...DOOOM...`
+NARRATION (box, lower corner): *He chose the road no one had offered him.*
+
+**— END OF CHAPTER 2 —**
+
+---
+
+## SCRIPT NOTES (for artist / letterer)
+
+- **Reading direction:** Right-to-left. Panel 1 sits at top-right of every page.
+- **Direct continuation of Chapter 1** — the opening panel picks up the exact instant Ch.1 ended (both powers stepping forward). No time gap.
+- **The two crowns are the visual thesis** of the chapter. Frame them symmetrically whenever both appear (white-gold on the left, black-iron on the right) so the refusal reads as rejecting BOTH, not choosing between them.
+- **Page 6 is the "decision" page** — use the two ghost-visions (order-as-cage / war-without-end) to externalize Egris's reasoning without an exposition dump. Keep them faint and screentoned, bleeding into the panel rather than boxed off.
+- **Page 9 splash (the grip)** is the chapter's centerpiece page-turn — keep Page 8's final panel tight and quiet so the fracture lands. This is the first time either power has been physically held; draw their shock as stillness, not flailing.
+- **Egris's first spoken word ("Order," Page 7)** should be lettered slightly rougher/drier than everyone else — it is the first sound from a man who has been silent since death.
+- **The powers' voices:** white = clean, borderless, weightless lettering; dark = heavy cracked balloons. Keep consistent with Chapter 1.
+- **Closing image (Page 12):** the gates CLOSING behind him is the emotional payoff — he is not exiled, he is *leaving*. The choice is his. Keep his back turned; never show his face on the final page.
