@@ -197,12 +197,12 @@ He knows exactly what to do.
 
 **Panel 1 — Medium, Egris speaks for the first time**
 
-**KHAN:**
+**EGRIS:**
 > "You speak to me as though I am a soul to be sorted."
 
 **Panel 2 — Wide**
 
-**KHAN:**
+**EGRIS:**
 > "I spent my life building an empire. I do not recall asking permission."
 
 **Panel 3 — Close on God and Satan — both still, watching**
@@ -271,7 +271,7 @@ He examines it.
 
 He drives the crown into the stone ground at his feet. Not discarding it — planting it. Like a stake. Like a claim.
 
-**KHAN:**
+**EGRIS:**
 > "I have conquered living men. I will not be conquered by dead gods."
 
 ---
@@ -304,7 +304,7 @@ Silence.
 
 He can see the edge of the plain. Where the black stone ends. Where the Wastes begin.
 
-**KHAN:**
+**EGRIS:**
 > "Then I will be the first."
 
 ---
