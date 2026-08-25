@@ -28,11 +28,13 @@ Dark. Heavy. Epic in scale but intimate in character moments. Think less "shonen
 - Moves closer to eye level than God. He sits when others stand. He is comfortable.
 
 ### The Reaper
-- Not a skeleton in a robe.
-- A figure that absorbs light — not dark, but an absence. Where light hits him, it stops.
-- Calm at all times. Never urgent. He has infinite time.
-- Scale is unclear — he should never have a fixed size. Sometimes he seems man-height, sometimes he fills a panel without explanation.
-- When he appears, the panel should feel colder. Sparse linework around him. Less detail, not more.
+> Reimagined since this section was first written — full detail now lives in `characters/the-reaper/the-reaper.md`; this entry is kept in sync as a summary, not a second source of truth.
+
+- An ancient Black woman in severe dark funeral robes, long locs that drift to their own gravity. Not a skeleton, no scythe, no glowing aura.
+- She holds **two forms, one entity**: the Woman (her chosen human presence, calm and near-human) and the Absence (her true nature — a light-absorbing silhouette, unclear scale, sparse linework). Never draw her mid-transition between them except at a deliberate reveal beat.
+- Calm at all times. Never urgent. She has infinite time.
+- Selective color note: pure black-and-white ink except one restrained crimson accent (near-black blood-red) — her blood, robe edges, and the eye-ring in a reveal panel. Never a wash over the whole image.
+- When she appears, the panel should feel colder. Sparse linework around her. Less detail, not more.
 
 ---
 
@@ -73,8 +75,12 @@ Dark. Heavy. Epic in scale but intimate in character moments. Think less "shonen
 
 ## Key Visual Moments to Protect
 
-1. **The crown driven into the stone** — Chapter 1. The defining image of the series. Return to it throughout Arc 1.
-2. **Egris walking away from both gates** — Chapter 1. Never frame this from the front. Always from behind or from the side. We see where he is going, not his expression.
-3. **The first follower standing up** — Chapter 1. One soul stopping kneeling among thousands. Frame it wide so the contrast is visible.
-4. **The Reaper's mark appearing** — Chapter 7. No drama. Egris just looks at his hand. The quieter this moment is, the more threatening it feels.
-5. **The Wastes, first view** — Chapter 4. Full page or double spread. Establish the scale of what Egris has claimed as his territory.
+> Updated against the finished 12-chapter script — the original list below described a crown-planting scene that never made it into either draft of Chapter 2, and put the Reaper's mark reveal in Chapter 7 as a quiet non-event when the finished chapter actually builds it into a full-page splash. Replaced with the moments the chapters' own script notes call out as load-bearing.
+
+1. **Egris gripping both offered crowns by the wrist, then shoving them to the stone** — Chapter 2, the page-turn splash on Page 9. The first time either divine power has been physically held. Their shock should read as stillness, not flailing.
+2. **The gates closing behind him** — Chapter 2's final page. This is the actual claim, not a planted object: he isn't exiled, he's leaving. Never show his face on this page — back turned only.
+3. **Suro's reveal at the end of Chapter 6** — he's been sitting in frame, unnoticed, the entire time. Place him somewhere that makes sense in hindsight (edge of camp, still, silent) and give him visible ash on his shoulders to sell how long he's been there.
+4. **The Reaper's first full appearance** — Chapter 7, Page 21 splash. She closes the distance across the whole Wastes between pages. Total stillness in her and her robes while ash and cloaks move around her; a single drop of near-black crimson blood is the only motion in the panel.
+5. **The Reaper's Mark, tracked across the arc** — first appears as pain in Ch.7, visibly darker in Ch.8, past the wrist in Ch.10, covering the forearm by Ch.12. Never glow it. It's a vein under the skin, not a sigil — the visual escalation across chapters is the storytelling, not any single panel.
+6. **The Echo Warriors' dissolution** — Chapter 10, Page 13 splash. They don't die, they release — soft screentone transitions, dissolving linework, the Centurion's eyes on Egris to the last moment.
+7. **The colossus breaking apart** — Chapter 11, Page 27. It doesn't die in battle; it falls apart because the will sustaining it (the Former Rival's) breaks. Crumbling, not exploding.

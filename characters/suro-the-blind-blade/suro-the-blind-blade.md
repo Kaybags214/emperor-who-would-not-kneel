@@ -91,7 +91,7 @@ What he "sees": vibration through his feet, the acoustics of a ruined space, the
 1. **Who taught a blind man the sword?** A master, a war, a necessity — his origin is a door left open on purpose.
 2. **Why the Wastes?** A man who reads the world by sound is drawn to the one place where sight fails everyone else. What is he listening *for*?
 3. **The one who makes him strike first.** His entire code is built around never moving first. The story that forces him to break it is the story worth telling.
-4. **Suro and the Emperor.** A blind blade who serves no one crossing paths with a Khan who kneels to no one — two kinds of refusal meeting on the ash.
+4. **Suro and the Emperor.** A blind blade who serves no one crossing paths with Egris, an emperor who kneels to no one — two kinds of refusal meeting on the ash.
 
 ---
 

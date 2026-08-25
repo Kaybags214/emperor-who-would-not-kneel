@@ -3,7 +3,7 @@
 
 *Format: Traditional right-to-left manga script. Read panels right-to-left, top-to-bottom.
 Black-and-white. Heavy ink shadow, cinematic negative space, screentone.
-Approx. 38 pages.*
+Approx. 63 pages.*
 
 ---
 
@@ -28,9 +28,7 @@ The woman in red holds the boy's hand so tightly his fingers have gone pale. The
 **Panels: 4**
 
 **Panel 1**
-A young soldier with a split breastplate holds his sword in both hands. His knuckles TREMB
-
-LE.
+A young soldier with a split breastplate holds his sword in both hands. His knuckles TREMBLE.
 *No dialogue.*
 
 **Panel 2**
