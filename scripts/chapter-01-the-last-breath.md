@@ -4,6 +4,8 @@
 **Pages:** 24 (estimated)  
 **Tone:** Quiet, heavy, building tension. No action yet. This chapter is all atmosphere and character establishment.
 
+> **Note on status:** This is an early standalone draft that predates the full script conversion in `chapters/arc-01-the-refusal/`. It compresses what became prose-then-script Chapters 1 and 2 into one chapter, and — per the author's own explicit direction on PR #4 — was intentionally left as a historical draft rather than kept in sync. It still includes the crown driven into the stone as a claiming gesture, which the finished Chapter 2 does not do; treat this file as a snapshot of an earlier version of the scene, not current canon.
+
 ---
 
 ## Page 1

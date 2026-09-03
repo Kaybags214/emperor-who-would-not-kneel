@@ -5,7 +5,7 @@
 ### What You Need (You Already Have Most of This!)
 
 #### ✅ What You Have:
-- **Complete Arc 1:** 12 chapters (~295 pages) in professional manga script format
+- **Complete Arc 1:** 12 chapters (~320 pages) in professional manga script format
 - **Story Bible:** Character profiles, world-building documents, premise
 - **Visual Direction:** Art notes and style guide
 - **Professional Format:** Right-to-left manga scripts ready for an artist
@@ -247,7 +247,7 @@ Publishers expect a professional package containing:
 
 1. **Complete Arc 1:** You have 12 polished chapters ready to go
 2. **Black Protagonist:** Diversity is in high demand; Saturday AM specifically seeks this
-3. **High Concept:** "Genghis Khan refuses God and Satan" is an instant hook
+3. **High Concept:** "A Genghis Khan-caliber emperor refuses God and Satan" is an instant hook
 4. **Timely Themes:** Philosophical action (à la Vinland Saga) is trending
 5. **English-First:** No translation needed for Western markets
 6. **Professional Format:** Your scripts are already in industry-standard manga format

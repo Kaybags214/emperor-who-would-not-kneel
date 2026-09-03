@@ -8,8 +8,8 @@ A manga series about Egris awakening in the afterlife, refusing to serve God or 
 
 ## Series Overview
 
-**Genre:** Dark fantasy / mythological action  
-**Tone:** Philosophical action — epic battles with a core question driving every arc  
+**Genre:** Dark fantasy / mythological action
+**Tone:** Philosophical action — epic battles with a core question driving every arc
 **Central theme:** Can someone reject every higher power without becoming a tyrant himself?
 
 ---
@@ -17,14 +17,23 @@ A manga series about Egris awakening in the afterlife, refusing to serve God or 
 ## Folder Structure
 
 ```
-/story-bible      — Core premise, themes, series arc, and ending direction
-/characters       — Character profiles: Egris, God, Satan, the Reaper, and key allies
-/world            — The afterlife territories: Heaven, Hell, the Wastes
-/power-system     — Faith, Fear, and Legacy — how authority becomes power
-/chapters         — Chapter-by-chapter scripts and scene breakdowns
-/arc-01-the-refusal — Arc 1: Chapters 1–7, Egris's arrival and first moves
-/art-notes        — Visual direction, panel layout notes, design references
-/scripts          — Full manga script format (panel-by-panel)
+/story-bible                 — Core premise, themes, series arc, and ending direction
+/characters                  — Egris, God, Satan, the Reaper, Suro, the Black Samurai
+                                (each in their own subfolder, bible + concept-art sheet
+                                together) plus flat files for recurring supporting cast:
+                                Arghun, Borchu, Seraphel, the Former Rival (+ his art sheet)
+/world                        — The afterlife territories: Heaven, Hell, the Wastes;
+                                /concept-art holds environment/key-scene illustrations
+/power-system                 — Faith, Fear, and Legacy — how authority becomes power
+/chapters/arc-01-the-refusal  — Arc 1, complete: outline + all 12 chapters in manga
+                                script format, with .docx/.pdf exports of each
+/art-notes                    — Visual direction, panel layout notes, design references
+/scripts                      — An early standalone panel script for Ch.1 that predates
+                                the arc-01 folder's script conversion — kept as a
+                                historical draft, not maintained in parallel (see
+                                EDITORIAL-NOTES.md)
+PUBLISHING-GUIDE.md            — Submission strategy and positioning for shopping
+                                Arc 1 to publishers (+ .docx/.pdf)
 ```
 
 ---
@@ -32,12 +41,13 @@ A manga series about Egris awakening in the afterlife, refusing to serve God or 
 ## Series Status
 
 - [x] Story bible drafted
-- [x] Main characters defined
+- [x] Main characters defined (Egris, God, Satan, the Reaper, Suro, the Black Samurai)
 - [x] World structure built
 - [x] Power system designed
-- [x] Arc 1 outlined (7 chapters)
-- [ ] Chapter 1 full script
-- [ ] Character design sheets
+- [x] **Arc 1 complete — all 12 chapters, full manga script format, ready to shop**
+- [x] Publishing guide drafted
+- [x] Concept art / character design sheets — found in Google Drive, now organized under `characters/*/` and `world/concept-art/` (see EDITORIAL-NOTES.md for the full map and one flagged art/script contradiction)
+- [ ] The Black Samurai (Adé) — standalone character concept, not yet integrated into any chapter
 - [ ] Arc 2 outline
 
 ---

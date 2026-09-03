@@ -1,6 +1,8 @@
 # Character Bible — The Black Samurai
 
 > **Status:** Draft v1. Working name and details below are a starting point — swap anything that doesn't feel right. This character can live inside *The Emperor Who Would Not Kneel* or anchor his own series; the design is built to do either.
+>
+> **Integration status (checked during this consistency pass):** Adé does not appear in any of the 12 finished Arc 1 chapters — he's a standalone concept, not yet woven into the story. If the intent is for him to appear in Arc 2, that's an open decision, not something already in motion.
 
 ---
 
@@ -11,6 +13,8 @@
 Chosen deliberately: it ties the character to the crown motif at the heart of this project (the crown driven into the black stone between the two Gates), while standing on its own. Full name proposal: **Adébáyò**, shortened to **Adé**. Epithet used by others: **"the Masterless"** or **"the Kneeless Blade."**
 
 *(Not attached to the name? Alternatives that carry the same weight: Kofi, Sekou, Jabari, Oba.)*
+
+**Confirmed:** the concept-art sheet for this character (`the-black-samurai-character-sheet.png`) is labeled in Japanese as **黑風 (Kokufū / "Black Wind")** — an earlier working title for the same character, predating "Adé." Same design, same character; the bible's naming takes precedence going forward.
 
 ---
 
@@ -68,7 +72,7 @@ Since then he has been **masterless by choice** — a ronin in the truest sense.
 
 ## Themes He Carries
 
-- **Refusal as identity** — the same spine as *The Emperor Who Would Not Kneel*. Adé is the sword-side answer to Genghis Khan's throne-side defiance.
+- **Refusal as identity** — the same spine as *The Emperor Who Would Not Kneel*. Adé is the sword-side answer to Egris's throne-side defiance.
 - **Dignity under a world built to erase you** — his features, his people, and his history are drawn with full weight precisely because the world keeps trying to reduce him.
 - **Freedom vs. belonging** — the cost of having no master is having no home. The story does not pretend that cost is small.
 

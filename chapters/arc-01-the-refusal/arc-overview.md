@@ -1,11 +1,13 @@
 # Arc 1 — The Refusal
 
+> Rewritten to match the finished 12-chapter manga script (see `EDITORIAL-NOTES.md`). The previous version of this file described a 7-chapter arc whose Chapters 5–6 (a sword duel with Seraphel, a defeated rival) never matched what was actually written even at 7 chapters, and it didn't cover Chapters 8–12 at all, which didn't exist yet when it was drafted.
+
 ## Arc Summary
 
-Egris arrives in the afterlife, rejects both God and Satan, claims the Wastes as his territory, and begins building his empire. By the end of the arc, he has his first followers, his first enemies, and the Reaper's mark on his hand.
+Egris arrives in the afterlife, refuses both God and Satan, and walks into the Wastes with nothing. He gathers a camp of the dead who choose to follow him — not command him — and by the end of the arc has survived three escalating tests of that principle: an angelic army, thirty warrior-echoes offering him command, and a colossus built from the Wastes itself. Each refusal costs him: the Reaper's Mark spreads further up his arm every time. The arc ends with the Reaper granting him borrowed time, and the Former Rival — the man behind every attack — gathering a real army for Arc 2.
 
-**Chapters:** 7  
-**Core question for this arc:** What does a conqueror do when there is nothing left to conquer?
+**Chapters:** 12 (~320 pages)
+**Core question for this arc:** Can a man build something out of free choice instead of command — and how long can he keep refusing power before refusing it costs him his life?
 
 ---
 
@@ -15,137 +17,93 @@ Egris arrives in the afterlife, rejects both God and Satan, claims the Wastes as
 
 ### Chapter 1 — The Last Breath
 
-**Scene:** The border plain. Black stone. Two enormous gates.
+Egris dies on the Mongolian steppe and wakes on an endless black plain, one of thousands of kneeling souls before two enormous gates — Heaven's and Hell's. God and Satan both appear and claim him. He says nothing, reads them the way a general reads terrain, and does not kneel.
 
-Egris dies and expects either victory or nothingness. Instead, he wakes in an endless black plain where thousands of dead soldiers are kneeling before two enormous gates.
-
-One gate opens to Heaven. The other opens to Hell.
-
-God and Satan both appear and claim that Egris belongs to them.
-
-**Key beat:** Egris says nothing for the first several pages. He observes. He measures. He does not kneel.
-
-**Ends on:** God and Satan both stepping forward simultaneously, making their claims.
+**Ends on:** Both powers stepping forward simultaneously to make their claim.
 
 ---
 
 ### Chapter 2 — Two Crowns
 
-**Scene:** The border plain. Egris stands between God and Satan.
+God offers an eternal empire under divine law; Satan offers limitless conquest. Egris lets both finish, then grips both figures by the wrist — the first time either has ever been physically held — and shoves their crowns to the ground.
 
-God shows Egris a vision of an eternal empire where every conquered people finally live under one law. Perfect order. No more war. Everything in its place.
+**Key dialogue:** *"I have conquered living men. I will not be conquered by dead gods."*
 
-Satan shows Egris a vision of limitless conquest — no army that can ever defeat him, no wall that can stop him, every world in existence open to him.
-
-Egris listens to both in full.
-
-Then he removes the ceremonial crown they offer him — the symbol of their authority — and drives it into the ground between the two gates.
-
-**Key dialogue:**
-> "I have conquered living men. I will not be conquered by dead gods."
-
-**Ends on:** The crown driven into the black stone. God and Satan staring at it.
+**Ends on:** Egris walking into the Wastes as the two gates close behind him — his back turned, the choice entirely his.
 
 ---
 
 ### Chapter 3 — The First Subject
 
-**Scene:** The border plain. Just after Egris plants the crown.
-
-A dead soul — not a warrior, not a king — approaches Egris and asks what he plans to rule if he has no kingdom.
-
-*(Character to be developed: could be a child soldier, a murdered civilian, a forgotten general — someone history did not honor.)*
-
-Egris answers:
-
-> "Then I will build one."
-
-This person becomes his first follower — not because they worship him, not because they fear him, but because they choose him. Because no one else looked at them and said that.
-
-**Key beat:** This scene establishes that Egris's power will be built differently. He is not recruiting soldiers. He is being chosen.
-
-**Ends on:** The two of them walking toward the Wastes. The gates behind them.
+Arghun, a scribe who spent 22 years recording Egris's tax decrees and execution lists in life, follows him into the Wastes anyway — reasoning that if anyone can hold onto their name in a place that erodes memory, it's the man who made the world fear it. Egris tells him: *"I am not building a kingdom of laws. I am building a nation of the chosen."* Arghun becomes his first follower — a witness, not a soldier.
 
 ---
 
 ### Chapter 4 — The Wastes
 
-**Scene:** The Wastes. Ruins. Forgotten souls.
-
-Egris and his first follower enter the neutral lands. The scale of the Wastes becomes clear — it is enormous, ancient, and alive with danger.
-
-They encounter the **Hollow Men**: souls erased from history, transformed into predators that feed on memory and identity. The Hollow Men attack a group of souls sheltering in ruins.
-
-Egris saves the group — but they fear him. They know his name. They know what he did in life.
-
-**Key beat:** This is the first time Egris's legacy works against him. His name is a threat, not a comfort, to people who may have been among his victims in life.
-
-**Ends on:** The survivors staring at him. Not grateful. Afraid.
+They find a camp of survivors sheltering in ruins, hunted nightly by the Hollow Men — soulless things that erase memory and identity on touch. Egris realizes what disturbs the Hollow Men isn't violence, it's will, and holds his ground until they retreat. The survivors he saves are afraid of him — they know his name and what he did in life.
 
 ---
 
 ### Chapter 5 — The Heavenly Envoy
 
-**Scene:** The Wastes. An angelic general arrives.
+Seraphel, General of the Seventh Host, descends to reclaim Egris — not by force first, but by argument, showing him a vision of Heaven's "peace" (a perfect city where no one starves, and no one chooses). Egris rejects it. When Seraphel commands the camp to kneel, Egris doesn't order them to fight for him — he gives them the choice to stand. They do, unevenly, afraid, but on their feet.
 
-God sends an angelic general — not to negotiate, but to return Egris to divine authority by force if necessary.
-
-The battle is the first major fight sequence of the series. Egris wins — but not through divine power. Through tactics. Through reading the general's patterns and exploiting the rigidity that comes with following orders.
-
-After winning, Egris refuses to kill the general. He sends him back with a message:
-
-> "Tell your master that I am not his enemy. I am simply not his."
-
-**Key beat:** The refusal to kill the general is important. Egris is not at war with God — yet. He is drawing a line.
-
-**Ends on:** The angelic general flying back toward Heaven. A few of the survivors who watched the fight are looking at Egris differently now.
+**Ends on:** Hundreds of angels descending through a torn sky. No blow has landed yet.
 
 ---
 
 ### Chapter 6 — The Infernal Bargain
 
-**Scene:** The Wastes. Night.
+Before Heaven's host can attack, a fissure opens and infernal soldiers march out led by a Former Rival from Egris's living empire — a man he once trusted, who betrayed him and was betrayed in turn. Satan offers an iron crown: an army that never doubts or fears, in exchange for helping the Rival's real price surface — vengeance. Egris refuses. When a follower asks *"If you take it, will we have to obey you?"* — he answers no, and means it. Satan withdraws, unimpressed but patient; Seraphel, having watched Egris refuse both thrones in one day, withdraws Heaven's host without a single blow struck.
 
-Satan sends a former rival of Egris's from his living life — someone with a genuine grievance — as an assassin. But the rival does not attack immediately. He offers Egris a deal: join me, and I will join you. We can have revenge together on everyone who wronged us.
-
-Egris realizes this is Satan's actual method: he does not build armies, he builds grievance coalitions. Every soldier in Hell is fighting someone's personal war.
-
-Egris refuses the rival's offer and defeats him — but does not kill him either. He offers him a different choice:
-
-> "You can go back to Hell and keep fighting for what they took from you. Or you can help me build something none of them have."
-
-**The rival's decision:** Left open for now. Does he stay? Does he leave? *(To be resolved in Arc 2.)*
-
-**Key beat:** Egris is beginning to understand what his empire needs to be — not an army of vendettas, but a nation with a shared purpose beyond personal grudges.
-
-**Ends on:** Egris looking at his hand. Something is different.
+**A new figure:** After both powers leave, a blind swordsman who's been sitting unnoticed at the camp's edge the whole time speaks up. This is **Suro, the Blind Blade** — he warns that "what comes next will be louder than gods," and the narration immediately afterward describes an old, patient, ancient attention from beyond the Wastes — the Reaper's first foreshadowed presence.
 
 ---
 
-### Chapter 7 — The Reaper's Mark
+### Chapter 7 — The Line in the Ash
 
-**Scene:** The Wastes. After the battle.
+The Former Rival returns alone, walking openly toward Egris and Suro, arguing that Egris's refusal is creating a vacuum the Wastes are already filling — and that structure, even imposed structure, is "the only mercy the weak ever actually receive." Suro cuts at both men equally: at Egris (*"Refusing a throne is not the same as being safe from one"*) and at the Rival (*"Fear that keeps its promises is still fear"*). Mid-argument the Reaper's Mark flares in Egris for the first time, and all three men feel something approaching that outranks their entire argument.
 
-Egris finds a black mark on his hand — a vein of darkness running from his palm up his wrist. The Reaper has chosen him as a possible vessel for the throne.
+**Ends on:** The Reaper's first full appearance — closing the whole distance across the Wastes in a single page-turn. *"Keep walking, Egris. Every road you choose that is not theirs — I will be at the end of it, waiting to see what you were for."*
 
-He does not feel the Reaper's presence. There is no dramatic appearance. There is only the mark, and a feeling — not quite power, not quite warning.
+---
 
-One of his followers mentions that they cannot remember something from their former life. Something small. A face. A name.
+### Chapter 8 — The Weight of Refusal
 
-Egris connects the two events. He does not yet know the full cost.
+A three-way chamber piece: the Rival tries to reach the conqueror he remembers, Suro observes and tests both men without taking either side, and Egris finally admits the thing he's been avoiding — that he knows exactly how to build the empire everyone keeps offering him, and that's precisely why he won't. Pressed on what comes next for his people, his honest answer is *"I do not know."* The Rival leaves, disappointed rather than angry — convinced the man he once fought is gone.
 
-**Key beat:** The arc ends on ambiguity, not triumph. Egris has his first settlement in the Wastes. He has followers. He has rejected both divine powers. And now something older than both of them has noticed him.
+---
 
-**Final line (internal):**
-> *He had spent his life learning that every gift had a price. The only question was whether you knew the price before you paid it.*
+### Chapter 9 — The Gathering Dark
 
-**Ends on:** Egris looking at the mark. The Wastes behind him. The two gates visible in the far distance.
+The camp has grown to forty-three. Pale blue lights — echoes of warrior-souls from a dozen eras and cultures, bound together by duty that survived death — surround the camp in perfect formation. A Roman centurion steps forward and salutes: an offer, not an attack. Join him, or fight him.
+
+---
+
+### Chapter 10 — No Kings in the Ash
+
+Egris refuses the echo army outright — not by fighting them, but by telling the Centurion the truth: the wars they served are over, and they don't owe obedience to anyone, including him. The formation wavers and the warriors peacefully dissolve, releasing whatever compulsion held them together. It's a hollow victory — the Mark has grown past his wrist, and something vast is already stirring in the deep Wastes.
+
+---
+
+### Chapter 11 — What Walks the Wastes
+
+A twenty-foot colossus made of the Wastes' own ash, bone, and ruin advances on the camp, sent (voice confirmed) by the Former Rival. Egris refuses to command anyone to fight it — thirty-three of the forty-three souls choose to stand with him anyway. The colossus can't touch them without permission to harm anyone but Egris; when he steps forward alone to spare them, Suro is faster, and the line advances together. The colossus collapses — not defeated in battle, but because the will holding it together breaks against something the Rival can't accept: people choosing to stand without being commanded.
+
+---
+
+### Chapter 12 — The Cost of Walking Alone (Arc 1 Finale)
+
+The Reaper appears in the camp itself this time — not to collect, but to show Egris what he's built: a third path, neither Heaven's order nor Hell's chaos, and now everyone knows it exists. She confirms Heaven, Hell, and the Wastes will all come for him next — "not to offer. To end." She touches the Mark; it flares, then stops spreading. Not healing — borrowed time. Her price when it runs out: *"I will take what is owed."* Her closing warning: the Former Rival is done sending proxies and is gathering a real army.
+
+**Ends on:** Egris choosing to keep walking, with the Rival's army visibly forming on the horizon.
 
 ---
 
 ## Arc 1 Themes
 
-- The cost of refusal — what do you build when you tear down the only structures that exist?
-- Legacy vs. fear — the first test of whether Egris can lead without controlling
-- The weight of a name — Egris's history makes him a threat to the people he wants to protect
-- The Reaper's patience — power given freely always has a hidden price
+- **The cost of refusal** — every refusal that protects Egris's principle costs him a further stretch of his own life via the Mark, not an abstraction.
+- **Legacy vs. command** — the recurring test across Chapters 5, 9, and 11: can people choose to stand with him without being led?
+- **The weight of a name** — Egris's history makes him a threat to the very people he wants to protect (Ch.4), and a mirror the Former Rival can't stop measuring himself against (Ch.6–8).
+- **The Reaper's patience** — she never asks him to kneel; that may unsettle him more than anything Heaven or Hell tried.

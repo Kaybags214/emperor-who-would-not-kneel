@@ -31,7 +31,7 @@ Death is not a monster and not a mercy — it is an ancient woman who has watche
 
 The Reaper is **stillness that outlasts everything.** She does not chase, threaten, or announce herself. She arrives before anyone notices and waits — at a distance from a small fire, at the edge of a battlefield, at the far end of a life — until the ending comes on its own. She has been present at every death that has ever happened and has never once been moved to cruelty or to pity. She simply witnesses.
 
-In a series about defiance — a Khan who will not kneel, a blade who will not serve, a swordsman who will not strike first — the Reaper is the one thing that **cannot be refused.** God can be denied, Satan can be turned down, empires can be built in the neutral Wastes. But she is always already there, watching, patient. That is her terror and her dignity both.
+In a series about defiance — an emperor who will not kneel, a blade who will not serve, a swordsman who will not strike first — the Reaper is the one thing that **cannot be refused.** God can be denied, Satan can be turned down, empires can be built in the neutral Wastes. But she is always already there, watching, patient. That is her terror and her dignity both.
 
 Her Blackness and her womanhood are authentic and central — she is drawn with reverence and specificity, an ancient matriarch of endings rather than a symbol or a trope. She is the oldest thing in the story, and she looks it in the best way: unhurried, certain, wholly herself.
 
@@ -72,9 +72,24 @@ She has **no scythe, no aura, no skull, no theatrics.** Her power is that she do
 
 ---
 
+## The Reaper's Mark (per Arc 1, Chapters 7–12)
+
+> Reconciled from the finished chapters — this section didn't exist in the original draft of this bible and the mechanic it describes superseded an earlier, different concept (see `EDITORIAL-NOTES.md`).
+
+The black vein-like mark on Egris's left hand/wrist is not a power he activates — it is a **mortality countdown that grows on its own, one link at a time, each time Egris refuses a major offer of authority.** It has no connection to his followers; nothing about it costs anyone else anything.
+
+- **Ch.7:** First appears as pain — the mark "crawls further up his wrist" the moment the Reaper's presence draws near.
+- **Ch.8:** Visibly darker, more defined, after the confrontation with the Former Rival.
+- **Ch.10:** Past the wrist, creeping up the forearm — after Egris refuses command of the thirty Echo Warriors.
+- **Ch.12:** Covers his entire forearm, skin pale and lifeless — after the colossus is broken.
+
+In Ch.12 the Reaper touches the mark directly. It flares, then **stops spreading** — not healed, just paused. Her own words: *"You have time. Not much. But some... I am not saving you. I am giving you enough rope to see whether you hang yourself or build a ladder."* When it resumes and reaches wherever it's counting down to, her stated price is blunt: *"I will take what is owed."*
+
+So: the mark is not a resource Egris draws on — it is Death's patience running out, visibly, on his own body, every time he chooses refusal over safety.
+
 ## Relationship to the Story
 
-- **To Genghis Khan:** He refuses God and Satan and builds in the Wastes — but the Reaper's Mark (the black vein up his wrist) means she is already attending to him. She is the one power his defiance cannot push away. Their dynamic is the spine of the series: the man who will not kneel, and the one thing that never asked him to.
+- **To Egris:** He refuses God and Satan and builds in the Wastes — but the Reaper's Mark (the black vein up his wrist) means she is already attending to him. She is the one power his defiance cannot push away. Their dynamic is the spine of the series: the man who will not kneel, and the one thing that never asked him to.
 - **To the Wastes:** She belongs here more than anyone. The gray, detail-drained neutral ground is closest to her true nature. She is at home in the ash.
 - **To everyone else:** She is the horizon. Always at the edge of the frame. Always already there.
 
@@ -98,7 +113,7 @@ She has **no scythe, no aura, no skull, no theatrics.** Her power is that she do
 1. **The fire she watches.** Who lit it, and why does she keep her distance instead of approaching? The answer could define her restraint.
 2. **The first time she is seen switching forms.** Save the reveal — the darkening eyes, the crimson ring — for a moment that reframes everything a character believed about the quiet woman.
 3. **What makes her bleed?** Her blood exists in the design for a reason. Whatever can wound her is one of the most important secrets in the series.
-4. **She never asked him to kneel.** The Khan spends the story refusing masters. The Reaper is the one power that made no demand at all — and that may unsettle him more than any threat.
+4. **She never asked him to kneel.** Egris spends the story refusing masters. The Reaper is the one power that made no demand at all — and that may unsettle him more than any threat.
 
 ---
 

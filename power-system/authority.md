@@ -52,11 +52,11 @@ But "freely chosen" loyalty is the hardest thing to build and the easiest thing 
 
 The Reaper's mark on Egris's hand does not fit any of the three categories. It draws from the Reaper's authority over death itself — which predates all three forms.
 
-**Effect:** Each use of the mark grants Egris a surge of power outside the authority system — borrowed force that does not require anyone's recognition.
+**Effect:** It is not a resource Egris spends for power — it is a mortality countdown. The mark grows on its own, one stage at a time, each time Egris refuses a major offer of authority (Heaven's, Hell's, the Echo Warriors', the colossus). By the end of Arc 1 it covers his entire forearm.
 
-**Cost:** Each use causes one of Egris's followers to lose a memory of their former life. Over time, they become more fully citizens of his new world — and less the people they chose to follow him as.
+**Cost:** The cost lands on Egris alone, not on his followers. The Reaper is explicit about what it means: when it finishes spreading, "I will take what is owed." In Ch.12 she pauses it as a deliberate act of patience, not mercy — buying him time to see how his refusal plays out, not saving him from it.
 
-**The question Egris must face:** Is he building a nation, or is he erasing people to fill it?
+**The question Egris must face:** How long can he keep refusing power before the thing that costs him is his own life?
 
 ---
 

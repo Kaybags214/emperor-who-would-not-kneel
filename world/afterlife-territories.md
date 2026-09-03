@@ -70,4 +70,4 @@ Where all three territories meet, there is a plain of black stone. Two enormous 
 
 Every soul who dies arrives on this plain first. God and Satan both have agents here, competing to claim incoming souls before they can choose for themselves.
 
-Egris's first act is driving a crown into the ground between the two gates — claiming the space between them as his own territory.
+Egris's first act is refusing both crowns outright — gripping God and Satan by the wrists, shoving both offers to the ground, and walking past them into the Wastes. He doesn't plant a marker to claim the space; the walking away is the claim. (An earlier version of this bible described him driving a crown into the stone as a stake — that never made it into either finished draft of Chapter 2 and has been corrected here to match the actual text.)
