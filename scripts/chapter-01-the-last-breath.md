@@ -1,5 +1,8 @@
 # Script — Chapter 1: The Last Breath
 
+**ARCHIVED — NON-CANON — DO NOT USE FOR PRODUCTION**
+*(Historical draft. The production script for Chapter 1 is `chapters/arc-01-the-refusal/chapter-01-the-last-breath.md`.)*
+
 **Format:** Manga script (panel-by-panel)  
 **Pages:** 24 (estimated)  
 **Tone:** Quiet, heavy, building tension. No action yet. This chapter is all atmosphere and character establishment.

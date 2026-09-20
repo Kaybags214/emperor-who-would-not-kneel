@@ -69,7 +69,7 @@ Dark. Heavy. Epic in scale but intimate in character moments. Think less "shonen
 - When two divine powers appear together: asymmetrical panel layout. They do not share equal space. Let their composition fight.
 - When Egris is between them: he gets the center panel. Always. His placement is never accidental.
 - Silence pages: at least one full page per chapter with no dialogue. Let the art breathe.
-- The Reaper: when he appears in a panel, other figures in the same panel should instinctively have less detail. As if his presence draws focus out of everything around him.
+- The Reaper: when she appears in a panel, other figures in the same panel should instinctively have less detail. As if her presence draws focus out of everything around her.
 
 ---
 

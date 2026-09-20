@@ -44,7 +44,7 @@ This folder is a cleaned-up copy of your GitHub repo (`Kaybags214/emperor-who-wo
 
 - **`PUBLISHING-GUIDE.md` describes Egris as Black in three places** — the example logline ("A Black former conqueror dies...", line 23), the Saturday AM pitch note ("Your Black protagonist fits their diversity mission," line 73), and the competitive-advantages list ("Black Protagonist," line 249). But Egris's own bible and his own concept-art sheet (`characters/egris/egris-character-sheet.png`, labeled "GENGHIS KHAN") both depict him as Mongol — Suro and the Reaper are the Black-led characters. **You asked to leave this for now, so nothing here was changed** — noting all three locations so whichever way you resolve it, none get missed. I did fix the adjacent "Genghis Khan refuses God and Satan" hook line to say "a Genghis Khan-caliber emperor" instead of using it as his literal name.
 
-- **The Black Samurai's concept art is labeled differently than his bible.** `characters/the-black-samurai/the-black-samurai-character-sheet.png` is titled in Japanese as **黑風 (Kokufū / "Black Wind")**, not Adé — a katana-wielding samurai design, matching the bible's *look* (Afro silhouette, dark seinen ink, "Afro Samurai" energy — the sheet even repeats "not for show, built for war"-style framing) but not its *name*. Could be an earlier working title before "Adé" was chosen, or the art was generated before the name was finalized. Worth a glance to confirm it's the same character before using it in any pitch materials.
+- ~~**The Black Samurai's concept art is labeled differently than his bible.**~~ **RESOLVED.** `characters/the-black-samurai/the-black-samurai-character-sheet.png` is titled in Japanese as **黑風 (Kokufū / "Black Wind")**, not Adé. This was confirmed as an earlier working title for the same character and is recorded as such in his bible and in the asset table below; **Adé is the name of record.** (This entry previously contradicted the asset table, which already said "confirmed" — reconciled in the canon pass.)
 
 ## Found — the concept art (in Google Drive, not GitHub)
 
@@ -72,3 +72,122 @@ The same Drive folder had `emperor_arc1_editorial_review.pdf`, a chapter-complet
 - Chapters 4, 5, and 6 significantly overran their declared page-count headers (Ch.4 said ~24, actually 31; Ch.5 said ~28, actually 43; Ch.6 said ~38, actually 63) — all three headers corrected to match actual content.
 - `chapter-06-the-infernal-bargain.md` Page 2 had "TREMBLE" broken across a hard line break — fixed.
 - The arc's total page count was quoted as ~295 pages in `PUBLISHING-GUIDE.md`, `arc-overview.md`, and this file — the real total (summed from every chapter's actual last page) is **320 pages**. Corrected everywhere it was quoted.
+
+---
+
+# Final Canon Reconciliation & Cleanup Pass
+
+*Second pass, run after the new PNG uploads landed. Scope: reconcile everything into one
+internally consistent canon suitable for AI-assisted manga/video production, and stand up a
+`production/` bible so downstream systems don't have to reinterpret the repo each run.*
+
+**Standing rule for this pass:** consistency correction authorized, creative rewriting not.
+Anything that needed a creative decision was flagged `AUTHOR DECISION REQUIRED` and left alone.
+
+## Fixed — objective continuity only
+
+1. **Chapter 2 and Chapter 3 page-count headers were wrong.** Ch.2 declared "Approx. 20
+   pages" and ends at page 12; Ch.3 declared "Approx. 18 pages" and ends at page 11. (The
+   previous pass corrected Ch.1, 4, 5 and 6 but missed these two.) Both headers corrected.
+   The arc total of **320 pages is unchanged and now verified** — it was already computed
+   from actual last pages, not from the headers: 12+12+11+31+43+63+22+22+24+26+28+26 = 320.
+2. **A "Khan" naming remnant survived at the repo root.** `suro-the-blind-blade.md` sat
+   outside `characters/`, was a byte-identical duplicate of the real Suro bible apart from one
+   line still calling Egris "a Khan," and the repo-wide rename never reached it. Replaced with
+   an `ARCHIVED — NON-CANON` pointer to the canonical file.
+3. **The Reaper still had male pronouns in two places** the earlier pass missed:
+   `story-bible/premise.md` ("He believes the throne...") and `art-notes/visual-direction.md`
+   panel-layout section ("when he appears... his presence"). Both corrected to she/her.
+4. **The retired crown-in-the-stone image was still being cited as current canon** in
+   `characters/the-black-samurai/the-black-samurai.md`, which anchored Adé's name to "the
+   crown driven into the black stone between the two Gates." Reworded to the crown motif that
+   actually happens — the two crowns Egris is offered and shoves to the stone.
+5. **`arc-overview.md` described a Chapter 1 that isn't the finished Chapter 1.** It said
+   "Egris dies on the Mongolian steppe" — that detail comes from the archived `scripts/` draft
+   (which opens on a "1227 AD. The Mongolian steppe" card, a Mongol army, a tent). The finished
+   Ch.1 opens on an unnamed plain of winter grass and a deathbed, names no place and no date,
+   and shows no battlefield. Corrected to describe what is on the page.
+6. **`EDITORIAL-NOTES.md` contradicted itself about Kokufū.** The "needs your call" section
+   asked for confirmation that 黑風 and Adé were the same character while the asset table two
+   sections below already said "confirmed," as does his bible. Reconciled — marked RESOLVED,
+   Adé is the name of record.
+7. **Ch.7 script-note typo** — "Pages 14 —" corrected to "Page 14 —".
+8. **Egris's bible now specifies the Mark is on his left hand**, matching all four chapter
+   appearances.
+9. **Archive banners standardised.** `characters/the-reaper.md`,
+   `scripts/chapter-01-the-last-breath.md` and `world/concept-art/superseded/README.md` now all
+   carry the literal string `ARCHIVED — NON-CANON — DO NOT USE FOR PRODUCTION` so a production
+   system can exclude on one grep.
+
+## Verified clean — checked and found consistent
+
+- Numeric continuity across the arc: camp = 43 (Ch.9–12), Echo Warriors = 30 (Ch.9–10), souls
+  standing against the colossus = 33 with 10 remaining behind (Ch.11–12), Arghun's 22 years in
+  Samarkand, colossus at 20 feet. No drift anywhere.
+- The Reaper's Mark progression (Ch.7 p.14 → Ch.8 p.1 → Ch.10 p.24 → Ch.12 p.2, paused Ch.12
+  p.18) matches her bible, the power-system file and Egris's bible exactly.
+- Every page reference in `art-notes/visual-direction.md`'s "Key Visual Moments" was checked
+  against the scripts: Ch.2 p.9, Ch.2 p.12, Ch.7 p.21, Ch.10 p.13, Ch.11 p.27 — all correct.
+- No remaining 7-chapter references. No remaining ~295-page references.
+- Speaker labels: inconsistent across chapters (WHITE FIGURE/WHITE POWER for God,
+  FORMER RIVAL/RIVAL/RIVAL'S VOICE, SCRIBE→ARGHUN, STRANGER→SURO) but **deliberately so** —
+  characters are unnamed until the story names them. **Left untouched**; an alias resolution
+  table was added to `production/CHARACTER-LOCKS.md` instead so production can parse them
+  without the scripts being flattened.
+
+## New image assets — resolved
+
+Seven PNGs had been uploaded to the repo root as `download (N).png`. MD5-compared against
+every existing art file:
+
+| Upload | Content | Confidence | Action |
+|---|---|---|---|
+| `download (1).png` | Black Samurai / 黑風 Kokufū sheet | Certain — byte-identical | Archived as duplicate |
+| `download (2).png` | The Border Gates | Certain — byte-identical | Archived as duplicate |
+| `download (3).png` | God character sheet | Certain — byte-identical | Archived as duplicate |
+| `download (6).png` | Suro character sheet | Certain — byte-identical | Archived as duplicate |
+| `download (7).png` | The Reaper character sheet | Certain — byte-identical | Archived as duplicate |
+| `download (8).png` | **ICARUS — Architect of the Absolute** | Certain — self-titled on the art | → `concept/future-canon/icarus-and-incubus/icarus-character-sheet.png` |
+| `download (9).png` | **INCUBUS — Voice of the Bleeding Dark** | Certain — self-titled on the art | → `concept/future-canon/icarus-and-incubus/incubus-character-sheet.png` |
+
+No asset was renamed on a guess. The five duplicates were **moved, not deleted**, into
+`concept/duplicate-uploads-ARCHIVED/` with a README recording each one's MD5 and canonical
+twin — safe to delete once you've confirmed.
+
+**`download (4).png` and `download (5).png` were never uploaded.** If two assets are missing
+from that drop, they are those two.
+
+## Newly discovered contradictions — flagged, NOT resolved
+
+- **The Reaper's eyes.** Three chapter scripts give her **"snake-slit pupils"** (Ch.7 p.22,
+  Ch.12 p.8, Ch.12 p.13). Her bible says her eyes are **human and dark** in the Woman form,
+  with the reveal being darkened whites and a **muted blood-red ring around the iris** — and
+  her finished concept sheet draws exactly that, round pupils and all, in a panel literally
+  labelled "EYES (REVEAL)." Scripts vs. bible **and** finished art. `AUTHOR DECISION REQUIRED`.
+- **The Mark has no origin.** Egris already wears it, and already knows whose it is, the first
+  time we see it — Ch.7 p.17, *"She's been following the mark,"* with the direction reading
+  *"He has felt this presence before."* Nothing in Ch.1–6 shows him receiving it or explains
+  it. `AUTHOR DECISION REQUIRED` — no origin was invented.
+- **The Reaper's Absence form never appears in Arc 1.** Only the Woman form does. Not a
+  contradiction, but production needed to be told, so it is now in the locks.
+- **God is never named on the page in Arc 1** — no `GOD` speaker label exists anywhere. Satan
+  is named once, in Ch.6. This asymmetry looks deliberate and was preserved.
+
+## Still open from the previous pass
+
+- **Egris's ethnic identity** — Mongol everywhere in story canon, Black in three places in
+  `PUBLISHING-GUIDE.md`. Still unresolved. A flag block was added at the top of that guide
+  naming all three locations; **none of the three lines was changed.** Note that
+  `characters/egris/egris-character-sheet.png` has "GENGHIS KHAN" lettered into the image
+  itself and will need re-lettering whichever way this lands.
+- **Suro's story hook #4** — now flagged inline in his bible rather than only mentioned here.
+
+## Created
+
+`production/CANON-MASTER.md`, `CHARACTER-LOCKS.md`, `WORLD-LOCKS.md`,
+`POWER-SYSTEM-LOCKS.md`, `VISUAL-STYLE-BIBLE.md`, `NON-CANON-EXCLUSIONS.md`, plus
+`concept/future-canon/icarus-and-incubus/README.md`. These summarize approved canon and index
+the sources — they **do not replace** the full material, and where they are thinner than a
+source file, the source file wins.
+
+**No music bible was created** — no music material exists in the repository.

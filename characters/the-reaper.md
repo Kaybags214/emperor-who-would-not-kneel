@@ -1,5 +1,7 @@
 # Character — The Reaper (SUPERSEDED)
 
+**ARCHIVED — NON-CANON — DO NOT USE FOR PRODUCTION**
+
 > This file is kept only as a pointer. The Reaper was reimagined in a later, dedicated character bible that contradicts this one on gender, form, and powers (this file used "he," no distinct forms; the current version is an ancient Black woman with two forms — the Woman and the Absence). The current one is canonical.
 >
 > **See `the-reaper/the-reaper.md` instead.**

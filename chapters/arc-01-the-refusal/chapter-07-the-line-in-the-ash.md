@@ -390,6 +390,6 @@ REAPER: "Keep walking, Egris. Every road you choose that is not theirs — I wil
 - **The two planted weapons** (Egris's spear, Rival's glaive) are a deliberate visual rhyme — frame them at matching heights in Pages 9–10 to show two equals, not a hero and a villain.
 - **Suro stands only once** (Page 14). Save it. His standing is an event.
 - **The Reaper's stillness** is the horror device — everything around her (ash, cloaks, hair) moves; she and her locs never do. Never draw her mid-motion.
-- **Do not glow the Mark.** Pages 14 — the pain is internal, shown through Egris's body and the crawling vein lines only. No light, no aura.
+- **Do not glow the Mark.** Page 14 — the pain is internal, shown through Egris's body and the crawling vein lines only. No light, no aura.
 - **The gut-punch line** is Page 13, Panel 1 ("It just made the cost land on other people instead of on you."). Give Egris a full silent panel to receive it (Page 13, Panel 2). Do not let him answer.
 - **Page-turn reveals** are built at: Page 4→5 (Rival's splash) and Page 20→21 (Reaper's splash). Keep the left-hand page (in reading order, the page you turn FROM) quiet so the turn lands.

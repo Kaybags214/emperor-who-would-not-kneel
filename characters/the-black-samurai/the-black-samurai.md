@@ -10,7 +10,7 @@
 
 **Adé** — Yoruba, meaning *crown / royalty*.
 
-Chosen deliberately: it ties the character to the crown motif at the heart of this project (the crown driven into the black stone between the two Gates), while standing on its own. Full name proposal: **Adébáyò**, shortened to **Adé**. Epithet used by others: **"the Masterless"** or **"the Kneeless Blade."**
+Chosen deliberately: it ties the character to the crown motif at the heart of this project (the two crowns Egris is offered at the Gates and shoves to the stone), while standing on its own. Full name proposal: **Adébáyò**, shortened to **Adé**. Epithet used by others: **"the Masterless"** or **"the Kneeless Blade."**
 
 *(Not attached to the name? Alternatives that carry the same weight: Kofi, Sekou, Jabari, Oba.)*
 

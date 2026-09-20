@@ -34,4 +34,4 @@ The Reaper's mark tracks this in a different way than first planned: it is not a
 ## Visual Notes
 - Should not look like a European king. Mongol features, practical armor — scarred, weathered, commanding without ornamentation.
 - No crown until he earns it differently. Early arc: no crown at all.
-- The Reaper's mark on his hand should be visible as a black vein, not a glowing sigil.
+- The Reaper's mark on his **left** hand should be visible as a black vein, not a glowing sigil. (The scripts are consistent: left hand in Ch.7–8, past the wrist by Ch.10, the whole left forearm by Ch.12.)

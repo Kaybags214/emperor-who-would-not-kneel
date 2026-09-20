@@ -17,7 +17,7 @@ Egris arrives in the afterlife, refuses both God and Satan, and walks into the W
 
 ### Chapter 1 — The Last Breath
 
-Egris dies on the Mongolian steppe and wakes on an endless black plain, one of thousands of kneeling souls before two enormous gates — Heaven's and Hell's. God and Satan both appear and claim him. He says nothing, reads them the way a general reads terrain, and does not kneel.
+Egris dies — an empty plain of winter grass, a deathbed, a son speaking too softly to hear; the finished script names no place and no date, and shows no battlefield — and wakes on an endless black plain, one of thousands of kneeling souls before two enormous gates — Heaven's and Hell's. God and Satan both appear and claim him. He says nothing, reads them the way a general reads terrain, and does not kneel.
 
 **Ends on:** Both powers stepping forward simultaneously to make their claim.
 

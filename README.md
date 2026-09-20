@@ -17,6 +17,10 @@ A manga series about Egris awakening in the afterlife, refusing to serve God or 
 ## Folder Structure
 
 ```
+/production                  — START HERE for AI-assisted production. Locked canon summaries
+                                for Astra / n8n: CANON-MASTER, CHARACTER-LOCKS, WORLD-LOCKS,
+                                POWER-SYSTEM-LOCKS, VISUAL-STYLE-BIBLE, NON-CANON-EXCLUSIONS.
+                                Summaries, not replacements — the sources below still rule.
 /story-bible                 — Core premise, themes, series arc, and ending direction
 /characters                  — Egris, God, Satan, the Reaper, Suro, the Black Samurai
                                 (each in their own subfolder, bible + concept-art sheet
@@ -28,12 +32,18 @@ A manga series about Egris awakening in the afterlife, refusing to serve God or 
 /chapters/arc-01-the-refusal  — Arc 1, complete: outline + all 12 chapters in manga
                                 script format, with .docx/.pdf exports of each
 /art-notes                    — Visual direction, panel layout notes, design references
+/concept/future-canon         — Designed but unwritten. Icarus & Incubus character sheets,
+                                with everything transcribed from the art and nothing invented.
+                                NOT in Arc 1.
+/concept/duplicate-uploads-ARCHIVED
+                              — Five root-level uploads that were byte-identical duplicates
+                                of art already filed elsewhere. Safe to delete.
 /scripts                      — An early standalone panel script for Ch.1 that predates
-                                the arc-01 folder's script conversion — kept as a
-                                historical draft, not maintained in parallel (see
-                                EDITORIAL-NOTES.md)
+                                the arc-01 folder's script conversion — ARCHIVED historical
+                                draft, not canon (see EDITORIAL-NOTES.md)
 PUBLISHING-GUIDE.md            — Submission strategy and positioning for shopping
-                                Arc 1 to publishers (+ .docx/.pdf)
+                                Arc 1 to publishers (+ .docx/.pdf). Business doc, not canon.
+EDITORIAL-NOTES.md             — Audit trail of past consistency passes
 ```
 
 ---
@@ -44,10 +54,17 @@ PUBLISHING-GUIDE.md            — Submission strategy and positioning for shopp
 - [x] Main characters defined (Egris, God, Satan, the Reaper, Suro, the Black Samurai)
 - [x] World structure built
 - [x] Power system designed
-- [x] **Arc 1 complete — all 12 chapters, full manga script format, ready to shop**
+- [x] **Arc 1 complete — all 12 chapters, 320 pages, full manga script format, ready to shop**
 - [x] Publishing guide drafted
-- [x] Concept art / character design sheets — found in Google Drive, now organized under `characters/*/` and `world/concept-art/` (see EDITORIAL-NOTES.md for the full map and one flagged art/script contradiction)
-- [ ] The Black Samurai (Adé) — standalone character concept, not yet integrated into any chapter
+- [x] Concept art / character design sheets — organized under `characters/*/`,
+      `world/concept-art/` and `concept/future-canon/`
+- [x] **Production canon locked** — `production/` holds the canon summaries an AI production
+      pipeline reads instead of reinterpreting the whole repo each run
+- [ ] **`AUTHOR DECISION REQUIRED` ×6** — open questions listed in
+      `production/NON-CANON-EXCLUSIONS.md` § 3. Two of them block art generation:
+      Egris's ethnic identity, and the Reaper's eyes.
+- [ ] The Black Samurai (Adé) — standalone character concept, not in any chapter
+- [ ] Icarus & Incubus — design sheets only, no written material; future-canon
 - [ ] Arc 2 outline
 
 ---
