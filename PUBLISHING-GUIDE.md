@@ -1,5 +1,22 @@
 # Publishing Guide: The Emperor Who Would Not Kneel
 
+> **NOT A CANON SOURCE.** This is a business/submission document. Story details here are
+> pitch copy and have not been reconciled against the chapter scripts. Canon lives in
+> `chapters/arc-01-the-refusal/` and `production/`.
+>
+> **`AUTHOR DECISION REQUIRED` — the protagonist's ethnic identity.** This guide describes
+> Egris as **Black** in three places: the example logline (§ Standard Pitch Packet), the
+> Saturday AM note (§ Tier 2), and the competitive-advantages list (§ Your Competitive
+> Advantages). Every other source in the project reads **Mongol** —
+> `art-notes/visual-direction.md` says *"Mongol features. Not westernized,"* Ch.2 has *"the
+> chaos of the steppes,"* Ch.3 places him in Samarkand, and his concept sheet is lettered
+> "GENGHIS KHAN." Suro, the Reaper, Adé, Icarus and Incubus are the Black-led designs.
+>
+> Both cannot be true, and which one is true changes the pitch, the art, and the submission
+> targets. This was raised in a previous pass and left open; **nothing has been changed here.**
+> The three locations are listed above so that whichever way you rule, none gets missed.
+> See `production/NON-CANON-EXCLUSIONS.md` § 3.
+
 ## 📋 How to Pitch Your Manga
 
 ### What You Need (You Already Have Most of This!)

@@ -3,7 +3,7 @@
 
 *Format: Traditional right-to-left manga script. Read panels right-to-left, top-to-bottom.
 Black-and-white. Heavy ink shadow, cinematic negative space, screentone ash.
-Approx. 18 pages.*
+Approx. 11 pages.*
 
 ---
 

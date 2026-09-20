@@ -92,6 +92,7 @@ What he "sees": vibration through his feet, the acoustics of a ruined space, the
 2. **Why the Wastes?** A man who reads the world by sound is drawn to the one place where sight fails everyone else. What is he listening *for*?
 3. **The one who makes him strike first.** His entire code is built around never moving first. The story that forces him to break it is the story worth telling.
 4. **Suro and the Emperor.** A blind blade who serves no one crossing paths with Egris, an emperor who kneels to no one — two kinds of refusal meeting on the ash.
+   > **AUTHOR DECISION REQUIRED.** As written this reads as a *future* hook, but Suro and Egris already met in Chapter 6 and have travelled together since (Ch.7–12). Either (a) this hook means a dedicated confrontation/duel beat still to come, in which case reword it so production doesn't stage a first meeting that already happened, or (b) it is simply a leftover from before Suro was written into Arc 1 and should be struck. Not resolved here — the intent is yours.
 
 ---
 

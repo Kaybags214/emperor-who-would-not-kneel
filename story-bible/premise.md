@@ -11,7 +11,7 @@ After his death, Egris awakens in a realm between life and the afterlife. God an
 
 He declares that he spent his life conquering nations — not kneeling to rulers — and he will not begin bowing now. Instead, he claims the empty territory between Heaven and Hell and begins building his own empire from the dead.
 
-But the war between God and Satan may be a distraction. From the edge of the afterlife, **the Reaper watches**. He believes the throne of existence should belong neither to Heaven nor Hell, but to Death itself.
+But the war between God and Satan may be a distraction. From the edge of the afterlife, **the Reaper watches**. She believes the throne of existence should belong neither to Heaven nor Hell, but to Death itself.
 
 ---
 
